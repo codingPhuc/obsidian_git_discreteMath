@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logical connection.md",
+                "file": "all symbol and how to type them.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "79de2f4c17e7803d",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logical connection.md",
+                "file": "all symbol and how to type them.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logical connection.md",
+                "file": "all symbol and how to type them.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,15 +174,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logical connection.md"
+                "file": "all symbol and how to type them.md"
               }
             }
+          },
+          {
+            "id": "714d2e524ea06884",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -198,12 +207,12 @@
   },
   "active": "46edc8e5aac44fbd",
   "lastOpenFiles": [
-    "Untitled.md",
-    "all symbol and how to type them.md",
-    "hello.md",
+    "Logical Equivalences.md",
     "logical connection.md",
-    "Untitled 1.md",
+    "all symbol and how to type them.md",
     "README.md",
+    "Untitled.md",
+    "hello.md",
     "pdf/501044-DiscreteStructures-1_Propositional2BLogic.pdf",
     "pdf/501044-DiscreteStructures-0-IntroductiontoDiscreteStructures.pdf",
     "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
