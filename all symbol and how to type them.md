@@ -14,7 +14,7 @@
 -   \supseteq: $\supseteq$ (superset)
 -   \cup: $\cup$ (set union)
 -   cap: $\cap$ (set intersection)
-
+- $\circ$ circel 
 Sure, here are some common logical connectives and logical equivalences in discrete math:
 
 Logical Connectives:
