@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ad468d94f4c1dc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5f5aafaac446ff66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comment discrete math symbol.md",
+                "file": "negation of quatiied statement.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,16 +47,13 @@
             "id": "46edc8e5aac44fbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "comment discrete math symbol.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comment discrete math symbol.md",
+                "file": "negation of quatiied statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comment discrete math symbol.md",
+                "file": "negation of quatiied statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comment discrete math symbol.md"
+                "file": "negation of quatiied statement.md"
               }
             }
           },
@@ -205,17 +190,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46edc8e5aac44fbd",
+  "active": "5f5aafaac446ff66",
   "lastOpenFiles": [
     "Logical Equivalences.md",
     "logical connection.md",
     "comment discrete math symbol.md",
+    "negation of quatiied statement.md",
+    "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf",
     "README.md",
-    "Untitled.md",
-    "hello.md",
+    "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
     "pdf/501044-DiscreteStructures-1_Propositional2BLogic.pdf",
     "pdf/501044-DiscreteStructures-0-IntroductiontoDiscreteStructures.pdf",
-    "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
-    "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf"
+    "hello.md"
   ]
 }
