@@ -27,5 +27,15 @@ the symbol $\exists$ is the existential quantifier :
 example : "there is a student in CS1231" can be written as 
 $\exists$ a person p such that p is a student in CS1231 
 or , more formally 
-$
+$\exists$ $\in$ P such that p is a student in CS1231 
+where P is the set of all people 
+the word such that are inserted just before the predicate 
+## definition 
+LetQ(x) be a predicate and D the domain of x. An existential  
+statement is a statement of the form "$\exists$x $\in$ D such that Q(x)"
+- it is defined to be true iff Q(x) is true for at least one x in D . 
+- it is defined to be flase iff Q(x) is false for all x in D 
+
+[[negation of quatiied statement]]
+[[Interpreting Multiply-Quantified Statements]]
 
