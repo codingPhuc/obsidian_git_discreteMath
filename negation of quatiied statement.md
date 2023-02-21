@@ -26,4 +26,5 @@ write a formal negation for statement( a) and an informal negation for statement
 $\forall$ people p , if p is blond then p has blue eyes 
 - $\exists$ p, (p is blond $\land$ ¬(p has blue eyes))
 if a computer program has more than 100,000 lines , then it contains a bug 
-- if a computer program has mre than 100.000 line , then it doest not contain a bug 
+- there is a computer such that it has more than 100.000 lines but it contains no bug 
+
