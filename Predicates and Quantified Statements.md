@@ -13,3 +13,12 @@ a. the domain of n is the set Z+ of all positive integers
 b. the domain of n is the set Z of all integers 
 	{-8,-4,-2,-1, 1,2,4,8} because these are exactly the  integers that divide 8 evenly 
 ## Quantifiers 
+#sumarize 
+Quantifiers are words that refer to quantities such as "some " or " all"and tell for how many elements a given predicate is true 
+the symbol $\forall$ denotes "for all" is call a universal quantifier 
+## definition 
+let Let Q(x) be a predicate and D the domain of x. A universal  
+statement is a statement of the form  "$\forall$ $\in$ D, Q(x)".
+- it is defined to be true iff Q(x) is true for e
+
+
