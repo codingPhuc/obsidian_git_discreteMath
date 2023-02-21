@@ -15,4 +15,3 @@ inverse : $\forall$x $\in$ D , if x $\leq$ 2  then x^2 $\leq$ 4
 
 
 
-
