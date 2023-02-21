@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "1e995fbd01288dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interpreting Multiply-Quantified Statements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f7818db13fa98f39",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "necessary and sufficient conditions , only if.md",
+                "file": "Interpreting Multiply-Quantified Statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "necessary and sufficient conditions , only if.md",
+                "file": "Interpreting Multiply-Quantified Statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "necessary and sufficient conditions , only if.md"
+                "file": "Interpreting Multiply-Quantified Statements.md"
               }
             }
           },
@@ -215,8 +227,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f7d8663907e44b9",
+  "active": "1e995fbd01288dc7",
   "lastOpenFiles": [
+    "necessary and sufficient conditions , only if.md",
     "variants of universal conditional statments.md",
     "comment discrete math symbol.md",
     "negation of quatiied statement.md",
@@ -225,7 +238,6 @@
     "pdf/501044-DiscreteStructures-12_Counting_and_Probability_1.pdf",
     "README.md",
     "pdf/501044-DiscreteStructures-15_Graphs_and_Trees_2.pdf",
-    "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf",
-    "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf"
+    "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf"
   ]
 }
