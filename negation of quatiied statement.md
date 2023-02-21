@@ -23,4 +23,7 @@ $\exists$ a triangle T such that the sum of the angles of T equals 200$\circ$
 * ~(p-> q) $\equiv$ p $\land$ ~q 
 
 write a formal negation for statement( a) and an informal negation for statement(b): 
-$\forall$ 
+$\forall$ people p , if p is blond then p has blue eyes 
+- $\exists$ p, (p is blond $\land$ ¬(p has blue eyes))
+if a computer program has more than 100,000 lines , then it contains a bug 
+
