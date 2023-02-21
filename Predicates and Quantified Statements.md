@@ -19,6 +19,13 @@ the symbol $\forall$ denotes "for all" is call a universal quantifier
 ## definition 
 let Let Q(x) be a predicate and D the domain of x. A universal  
 statement is a statement of the form  "$\forall$ $\in$ D, Q(x)".
-- it is defined to be true iff Q(x) is true for e
+- it is defined to be true iff Q(x) is true for every x in D 
+- it is defined to be false iff Q(x) is false for at least one x in D 
+A value for x for which Q(x) is false is called a counterexample 
 
+the symbol $\exists$ is the existential quantifier : 
+example : "there is a student in CS1231" can be written as 
+$\exists$ a person p such that p is a student in CS1231 
+or , more formally 
+$
 
