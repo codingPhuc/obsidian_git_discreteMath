@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "1f7d8663907e44b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "necessary and sufficient conditions , only if.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f7818db13fa98f39",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "variants of universal conditional statments.md",
+                "file": "necessary and sufficient conditions , only if.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "variants of universal conditional statments.md",
+                "file": "necessary and sufficient conditions , only if.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "variants of universal conditional statments.md"
+                "file": "necessary and sufficient conditions , only if.md"
               }
             }
           },
@@ -203,10 +215,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e0a3c90810ae9b9",
+  "active": "1f7d8663907e44b9",
   "lastOpenFiles": [
-    "comment discrete math symbol.md",
     "variants of universal conditional statments.md",
+    "comment discrete math symbol.md",
     "negation of quatiied statement.md",
     "Logical Equivalences.md",
     "logical connection.md",
