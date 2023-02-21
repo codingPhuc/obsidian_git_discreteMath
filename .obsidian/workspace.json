@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interpreting Multiply-Quantified Statements.md",
+                "file": "logical connection.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interpreting Multiply-Quantified Statements.md",
+                "file": "logical connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interpreting Multiply-Quantified Statements.md",
+                "file": "logical connection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interpreting Multiply-Quantified Statements.md"
+                "file": "logical connection.md"
               }
             }
           },
@@ -230,14 +230,14 @@
   "active": "1e995fbd01288dc7",
   "lastOpenFiles": [
     "necessary and sufficient conditions , only if.md",
-    "variants of universal conditional statments.md",
-    "comment discrete math symbol.md",
-    "negation of quatiied statement.md",
     "Logical Equivalences.md",
     "logical connection.md",
-    "pdf/501044-DiscreteStructures-12_Counting_and_Probability_1.pdf",
-    "README.md",
-    "pdf/501044-DiscreteStructures-15_Graphs_and_Trees_2.pdf",
-    "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf"
+    "Interpreting Multiply-Quantified Statements.md",
+    "pdf/501044-DiscreteStructures-9_Relations2.pdf",
+    "pdf/501044-DiscreteStructures-6_7_Sequences_and_Recursion.pdf",
+    "comment discrete math symbol.md",
+    "variants of universal conditional statments.md",
+    "negation of quatiied statement.md",
+    "pdf/501044-DiscreteStructures-12_Counting_and_Probability_1.pdf"
   ]
 }
