@@ -13,9 +13,14 @@ are”) is logically equivalent to a universal statement
 #example
 $\forall$ primes p , p is odd 
 - $\exists$ prime $p$ such that $p$ is not odd.
+- $\exists$ primes p , p is not odd ( p is even) #teacher  
 $\exists$ a triangle T such that the sum of the angles of T equals 200$\circ$ 
 - $\forall$ triangle $T$, the sum of the angles of $T$ $\neq$ 200$\circ$.
+- $\forall$ triangle T , the sum of the angles of T does not equal    200$\circ$ #teacher 
 
 * ~(p$\land$ q) $\equiv$ ~p $\lor$ ~q 
 * ~(p $\lor$ q) $\equiv$ ~p $\land$ ~q 
-* ~(p-> q) $equi
+* ~(p-> q) $\equiv$ p $\land$ ~q 
+
+write a formal negation for statement( a) and an informal negation for statement(b): 
+$\forall$ 
