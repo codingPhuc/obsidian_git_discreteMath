@@ -1,5 +1,4 @@
-In logic, predicates can be obtained by removing some  
-or all of the nouns from a statement. For instance, let  
-P stand for “is a student at Bedford College” and let Q  
-stand for “is a student at.” Then both P and Q are  
-predicate symbols.
+
+definition (Predicate)
+a predicate is a sentence that contain a finite number of varibles and only becomes a statement when those varibles are fill in with 
+when specific values are subsituted for the variables 
