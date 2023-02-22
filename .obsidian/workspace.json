@@ -11,9 +11,11 @@
             "id": "5a06f66fb9551cfc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf"
+                "file": "lab3/necessary and sufficient conditions , only if.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
+                "file": "lab3/necessary and sufficient conditions , only if.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
+                "file": "lab3/necessary and sufficient conditions , only if.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf"
+                "file": "lab3/necessary and sufficient conditions , only if.md"
               }
             }
           },
@@ -166,6 +168,7 @@
   },
   "active": "5a06f66fb9551cfc",
   "lastOpenFiles": [
+    "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
     "pdf/501044-DiscreteStructures-4_5_NumberTheory.pdf",
     "lab3/Interpreting Multiply-Quantified Statements.md",
     "discrete math symbols.md",
@@ -174,7 +177,6 @@
     "lab3/variants of universal conditional statments.md",
     "lab3/negation of quatiied statement.md",
     "lab3/Predicates and Quantified Statements.md",
-    "all symbol and how to type them.md",
-    "README.md"
+    "all symbol and how to type them.md"
   ]
 }
