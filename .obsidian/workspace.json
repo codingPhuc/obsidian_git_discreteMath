@@ -11,11 +11,9 @@
             "id": "5a06f66fb9551cfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "lab3/Interpreting Multiply-Quantified Statements.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf"
               }
             }
           },
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab3/Interpreting Multiply-Quantified Statements.md",
+                "file": "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab3/Interpreting Multiply-Quantified Statements.md",
+                "file": "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab3/Interpreting Multiply-Quantified Statements.md"
+                "file": "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf"
               }
             }
           },
@@ -168,15 +166,15 @@
   },
   "active": "5a06f66fb9551cfc",
   "lastOpenFiles": [
+    "pdf/501044-DiscreteStructures-4_5_NumberTheory.pdf",
+    "lab3/Interpreting Multiply-Quantified Statements.md",
     "discrete math symbols.md",
     "Logical Equivalences.md",
-    "lab3/Interpreting Multiply-Quantified Statements.md",
     "lab3/necessary and sufficient conditions , only if.md",
     "lab3/variants of universal conditional statments.md",
     "lab3/negation of quatiied statement.md",
     "lab3/Predicates and Quantified Statements.md",
     "all symbol and how to type them.md",
-    "README.md",
-    "logical connection.md"
+    "README.md"
   ]
 }
