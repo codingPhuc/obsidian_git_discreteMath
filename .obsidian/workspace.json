@@ -8,84 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f5aafaac446ff66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lab3/negation of quatiied statement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e0a3c90810ae9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lab3/variants of universal conditional statments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f7d8663907e44b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lab3/necessary and sufficient conditions , only if.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e995fbd01288dc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lab3/Interpreting Multiply-Quantified Statements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67908d7a1befba12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "all symbol and how to type them.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7818db13fa98f39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "discrete math symbols.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5a06f66fb9551cfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "discrete math symbols.md",
+                "file": "lab3/Interpreting Multiply-Quantified Statements.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#teachr",
+                "query": "tag:#symbol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "all symbol and how to type them.md",
+                "file": "lab3/Interpreting Multiply-Quantified Statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "all symbol and how to type them.md",
+                "file": "lab3/Interpreting Multiply-Quantified Statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "all symbol and how to type them.md"
+                "file": "lab3/Interpreting Multiply-Quantified Statements.md"
               }
             }
           },
@@ -239,17 +166,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67908d7a1befba12",
+  "active": "5a06f66fb9551cfc",
   "lastOpenFiles": [
-    "lab3/Predicates and Quantified Statements.md",
-    "lab3/variants of universal conditional statments.md",
-    "README.md",
-    "lab3/Interpreting Multiply-Quantified Statements.md",
-    "logical connection.md",
-    "Logical Equivalences.md",
-    "lab3/necessary and sufficient conditions , only if.md",
-    "lab3/negation of quatiied statement.md",
     "discrete math symbols.md",
-    "pdf/501044-DiscreteStructures-9_Relations2.pdf"
+    "Logical Equivalences.md",
+    "lab3/Interpreting Multiply-Quantified Statements.md",
+    "lab3/necessary and sufficient conditions , only if.md",
+    "lab3/variants of universal conditional statments.md",
+    "lab3/negation of quatiied statement.md",
+    "lab3/Predicates and Quantified Statements.md",
+    "all symbol and how to type them.md",
+    "README.md",
+    "logical connection.md"
   ]
 }
