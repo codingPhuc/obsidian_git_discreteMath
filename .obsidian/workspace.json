@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "negation of quatiied statement.md",
+                "file": "lab3/negation of quatiied statement.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "variants of universal conditional statments.md",
+                "file": "lab3/variants of universal conditional statments.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "necessary and sufficient conditions , only if.md",
+                "file": "lab3/necessary and sufficient conditions , only if.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interpreting Multiply-Quantified Statements.md",
+                "file": "lab3/Interpreting Multiply-Quantified Statements.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "necessary and sufficient conditions , only if.md",
-                "mode": "preview",
+                "file": "all symbol and how to type them.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "necessary and sufficient conditions , only if.md",
+                "file": "all symbol and how to type them.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "necessary and sufficient conditions , only if.md",
+                "file": "all symbol and how to type them.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "necessary and sufficient conditions , only if.md"
+                "file": "all symbol and how to type them.md"
               }
             }
           },
@@ -241,15 +241,15 @@
   },
   "active": "67908d7a1befba12",
   "lastOpenFiles": [
-    "Logical Equivalences.md",
+    "lab3/Predicates and Quantified Statements.md",
+    "lab3/variants of universal conditional statments.md",
+    "README.md",
+    "lab3/Interpreting Multiply-Quantified Statements.md",
     "logical connection.md",
-    "Interpreting Multiply-Quantified Statements.md",
-    "Predicates and Quantified Statements.md",
+    "Logical Equivalences.md",
+    "lab3/necessary and sufficient conditions , only if.md",
+    "lab3/negation of quatiied statement.md",
     "discrete math symbols.md",
-    "necessary and sufficient conditions , only if.md",
-    "negation of quatiied statement.md",
-    "pdf/501044-DiscreteStructures-9_Relations2.pdf",
-    "pdf/501044-DiscreteStructures-6_7_Sequences_and_Recursion.pdf",
-    "variants of universal conditional statments.md"
+    "pdf/501044-DiscreteStructures-9_Relations2.pdf"
   ]
 }

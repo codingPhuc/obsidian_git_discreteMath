@@ -38,4 +38,5 @@ statement is a statement of the form "$\exists$x $\in$ D such that Q(x)"
 
 [[negation of quatiied statement]]
 [[Interpreting Multiply-Quantified Statements]]
-
+[[variants of universal conditional statments]]
+[[necessary and sufficient conditions , only if]]
