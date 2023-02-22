@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab3/Predicates and Quantified Statements.md",
+                "file": "lab3/necessary and sufficient conditions , only if.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab3/Predicates and Quantified Statements.md",
+                "file": "lab3/necessary and sufficient conditions , only if.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab3/Predicates and Quantified Statements.md",
+                "file": "lab3/necessary and sufficient conditions , only if.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab3/Predicates and Quantified Statements.md"
+                "file": "lab3/necessary and sufficient conditions , only if.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "5a06f66fb9551cfc",
   "lastOpenFiles": [
-    "lab3/negation of quatiied statement.md",
-    "lab3/Predicates and Quantified Statements.md",
-    "lab3/variants of universal conditional statments.md",
     "lab3/Interpreting Multiply-Quantified Statements.md",
-    "lab3/necessary and sufficient conditions , only if.md",
+    "lab3/negation of quatiied statement.md",
+    "lab3/variants of universal conditional statments.md",
+    "pdf/501044-DiscreteStructures-0-IntroductiontoDiscreteStructures.pdf",
     "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
-    "pdf/501044-DiscreteStructures-4_5_NumberTheory.pdf",
-    "Logical Equivalences.md",
-    "discrete math symbols.md",
-    "all symbol and how to type them.md"
+    "pdf/501044-DiscreteStructures-6_7_Sequences_and_Recursion.pdf",
+    "pdf/501044-DiscreteStructures-8_Sets.pdf",
+    "lab3/Predicates and Quantified Statements.md",
+    "lab3/necessary and sufficient conditions , only if.md",
+    "pdf/501044-DiscreteStructures-4_5_NumberTheory.pdf"
   ]
 }
