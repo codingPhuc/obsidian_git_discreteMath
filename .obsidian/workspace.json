@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exam.md",
+                "file": "lab3/variants of universal conditional statments.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exam.md",
+                "file": "lab3/variants of universal conditional statments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exam.md",
+                "file": "lab3/variants of universal conditional statments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exam.md"
+                "file": "lab3/variants of universal conditional statments.md"
               }
             }
           },
@@ -181,21 +181,21 @@
   },
   "active": "53844f49e4413bf4",
   "lastOpenFiles": [
-    "discrete math symbols.md",
+    "lab3/Predicates and Quantified Statements.md",
+    "lab3/negation of quatiied statement.md",
+    "lab3/variants of universal conditional statments.md",
     "exam.md",
+    "discrete math symbols.md",
     "logical connection.md",
     "README.md",
     "Logical Equivalences.md",
     "all symbol and how to type them.md",
-    "lab3/variants of universal conditional statments.md",
-    "lab3/negation of quatiied statement.md",
     "lab3/necessary and sufficient conditions , only if.md",
     "lab3/Interpreting Multiply-Quantified Statements.md",
     "pdf/501044-DiscreteStructures-0-IntroductiontoDiscreteStructures.pdf",
     "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
     "pdf/501044-DiscreteStructures-6_7_Sequences_and_Recursion.pdf",
     "pdf/501044-DiscreteStructures-8_Sets.pdf",
-    "lab3/Predicates and Quantified Statements.md",
     "pdf/501044-DiscreteStructures-4_5_NumberTheory.pdf"
   ]
 }
