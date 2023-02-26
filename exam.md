@@ -19,4 +19,5 @@ contrapositive : you won't be banned from the exam if you go to school today
 conserve : you will be banned from the exam , if you dont go to school today 
 
 
-c /  I will go to the bec
+c /  I will go to the beach in any hot day 
+
