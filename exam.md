@@ -28,5 +28,11 @@ conserve : in any hot day i will go to the beach
 ## excersice 3 
 Rewrite the following statements in natural language using “p if and only if q” form:  
 a/ A necessary and sufficient condition for graduation is that you have to study.  
-b/ If you go to school, you’ll get your attendance, and if you took your attendance,  
-you had gone to school.
+p: " A necessary and sufficient condition for graduation"
+q : "you have to study"
+you will gradute if and only if you study 
+b/ If you go to school, you’ll get your attendance, and if you took your attendance,  you had gone to school.
+p :"you go to school"
+q: " you’ll get your attendance"
+
+you will get your attendance if and only if you go to school 
