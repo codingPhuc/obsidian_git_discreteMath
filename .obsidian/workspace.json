@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab3/variants of universal conditional statments.md",
+                "file": "lab3/negation of quatiied statement.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab3/variants of universal conditional statments.md",
+                "file": "lab3/negation of quatiied statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab3/variants of universal conditional statments.md",
+                "file": "lab3/negation of quatiied statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab3/variants of universal conditional statments.md"
+                "file": "lab3/negation of quatiied statement.md"
               }
             }
           },
@@ -181,9 +181,9 @@
   },
   "active": "53844f49e4413bf4",
   "lastOpenFiles": [
-    "lab3/negation of quatiied statement.md",
-    "lab3/variants of universal conditional statments.md",
     "lab3/Predicates and Quantified Statements.md",
+    "lab3/variants of universal conditional statments.md",
+    "lab3/negation of quatiied statement.md",
     "lab3/necessary and sufficient conditions , only if.md",
     "lab3/Interpreting Multiply-Quantified Statements.md",
     "Logical Equivalences.md",
