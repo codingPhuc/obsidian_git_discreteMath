@@ -7,4 +7,4 @@
 -   Implication: $P \rightarrow Q$, read as "if P then Q"
 -   Biconditional: $P \leftrightarrow Q$, read as "P if and only if Q"
 
-use [[all symbol and how to type them]]
+use [[discrete math symbols]]

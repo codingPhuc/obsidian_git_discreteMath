@@ -13,4 +13,4 @@ Logical Equivalences are statements in propositional logic that are logically eq
 
 These logical connectives and equivalences are used extensively in discrete math, especially in the study of propositional and predicate logic.
 
-use [[all symbol and how to type them]]
+use [[discrete math symbols]]
