@@ -20,4 +20,13 @@ conserve : you will be banned from the exam , if you dont go to school today
 
 
 c /  I will go to the beach in any hot day 
+p : "I will go to the beach "
+q : "in any hot day"
+contrapositive : if not hot day , i won't go to the beach 
+conserve : in any hot day i will go to the beach 
 
+## excersice 3 
+Rewrite the following statements in natural language using “p if and only if q” form:  
+a/ A necessary and sufficient condition for graduation is that you have to study.  
+b/ If you go to school, you’ll get your attendance, and if you took your attendance,  
+you had gone to school.
