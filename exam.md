@@ -53,3 +53,6 @@ a/ (p $\land$ q) → p
 | true  | false | true              |
 | false      |false       |  true                 |
 b/ ((p → q) $\land$ (q → r)) → (p → r)
+
+
+
