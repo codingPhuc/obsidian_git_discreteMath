@@ -42,3 +42,14 @@ a/ Being over 18 is sufficient to become the US president
 IF  you are over 18 , yhen you are sufficient  to become the us president 
 b/ You need to study all the lessons to pass the Discrete Structures module. 
 if you study all the lessons ,then you will pass  the discrete structure module 
+
+## excersice 5 : 
+Using truth table to prove that the following statements are tautology:  
+a/ (p $\land$ q) → p  
+| p     | q     | (p $\land$ q) → p |
+| ----- | ----- | ----------------- |
+| true  | true  | true              |
+| false | true  | false             |
+| true  | false | true              |
+| false      |false       |  true                 |
+b/ ((p → q) $\land$ (q → r)) → (p → r)
