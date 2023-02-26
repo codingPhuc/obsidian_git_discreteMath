@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "discrete math symbols.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53844f49e4413bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exam.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logical Equivalences.md"
+                "file": "exam.md"
               }
             }
           },
@@ -166,10 +179,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a06f66fb9551cfc",
+  "active": "53844f49e4413bf4",
   "lastOpenFiles": [
-    "logical connection.md",
     "discrete math symbols.md",
+    "exam.md",
+    "logical connection.md",
+    "README.md",
+    "Logical Equivalences.md",
     "all symbol and how to type them.md",
     "lab3/variants of universal conditional statments.md",
     "lab3/negation of quatiied statement.md",
