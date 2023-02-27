@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "discrete math symbols.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "discrete math symbols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "discrete math symbols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logical Equivalences.md"
+                "file": "discrete math symbols.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "53844f49e4413bf4",
   "lastOpenFiles": [
+    "Logical Equivalences.md",
     "exam.md",
     "logical connection.md",
     "lab3/variants of universal conditional statments.md",
@@ -189,7 +190,6 @@
     "lab3/negation of quatiied statement.md",
     "discrete math symbols.md",
     "README.md",
-    "Logical Equivalences.md",
     "lab3/Interpreting Multiply-Quantified Statements.md",
     "pdf/501044-DiscreteStructures-8_Sets.pdf",
     "all symbol and how to type them.md",
