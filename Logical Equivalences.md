@@ -10,6 +10,7 @@ Logical Equivalences are statements in propositional logic that are logically eq
 -   Negation: $P \land \neg P \equiv F$ and $P \lor \neg P \equiv T$
 -   Implication: $P \rightarrow Q \equiv \neg P \lor Q$
 -   Biconditional: $P \leftrightarrow Q \equiv (P \rightarrow Q) \land (Q \rightarrow P)$
+ - Universal bound law : p $\lor$ t $\equ 
 
 These logical connectives and equivalences are used extensively in discrete math, especially in the study of propositional and predicate logic.
 
