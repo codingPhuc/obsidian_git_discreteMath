@@ -15,7 +15,7 @@ Logical Equivalences are statements in propositional logic that are logically eq
 
 These logical connectives and equivalences are used extensively in discrete math, especially in the study of propositional and predicate logic.
 #example  
-	~(~p $\land$ q) $\land$ (p $\lor$  q)
-	 $\equiv$ (~(~p) $\lor$ q) $\land$ ( p $\lor$ q) ( demogan)
-	 $\equiv$ (p $\lor$  q) $\land$  (p $\lor$ q) 
+	~(~p $\land$ ~q) $\land$ (p $\lor$  q)
+	 $\equiv$ (~(~p) $\lor$ ~q) $\land$ ( p $\lor$ q) ( demogan)
+	 $\equiv$ (p $\lor$  ~q) $\land$  (p $\lor$ q) 
 	 $\equiv$ 
