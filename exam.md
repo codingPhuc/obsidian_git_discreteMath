@@ -54,8 +54,6 @@ a/ (p $\land$ q) → p
 | false      |false       |  true                 |
 b/ ((p → q) $\land$ (q → r)) → (p → r)
 
-
-
 To prove that the statements in question 5 are tautology using logical equivalence laws, we will need to show that each statement is equivalent to a statement that is always true.
 
 a/ $(p \land q) \rightarrow p$
