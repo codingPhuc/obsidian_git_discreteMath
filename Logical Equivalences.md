@@ -19,5 +19,3 @@ These logical connectives and equivalences are used extensively in discrete math
 	 $\equiv$ (~(~p) $\lor$ q) $\land$ ( p $\lor$ q) ( demogan)
 	 $\equiv$ (p $\lor$  q) $\land$  (p $\lor$ q) 
 	 $\equiv$ 
-
-use [[discrete math symbols]]
