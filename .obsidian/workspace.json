@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "exam.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logical Equivalences.md"
+                "file": "exam.md"
               }
             }
           },
@@ -181,17 +181,17 @@
   },
   "active": "37155b5c4196119e",
   "lastOpenFiles": [
+    "Logical Equivalences.md",
+    "The logic of compound statemetns.md",
+    "Untitled.md",
     "exam.md",
     "discrete math symbols.md",
-    "Logical Equivalences.md",
     "logical connection.md",
-    "The logic of compound statemetns.md",
     "lab2",
     "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf",
     "lab3/variants of universal conditional statments.md",
     "lab3/Predicates and Quantified Statements.md",
     "lab3/negation of quatiied statement.md",
-    "Untitled.md",
     "lab3/necessary and sufficient conditions , only if.md",
     "README.md",
     "lab3/Interpreting Multiply-Quantified Statements.md",
