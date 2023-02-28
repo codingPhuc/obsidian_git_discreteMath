@@ -18,4 +18,4 @@ These logical connectives and equivalences are used extensively in discrete math
 	~(~p $\land$ ~q) $\land$ (p $\lor$  q)
 	 $\equiv$ (~(~p) $\lor$ ~q) $\land$ ( p $\lor$ q) ( demogan)
 	 $\equiv$ (p $\lor$  ~q) $\land$  (p $\lor$ q) 
-	 $\equiv$ 
+	 $\equiv$ (p V ~q )
