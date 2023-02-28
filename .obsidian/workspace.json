@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "171a00b145b48790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "checking the validity of the argument.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "46edc8e5aac44fbd",
             "type": "leaf",
             "state": {
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exam.md",
+                "file": "checking the validity of the argument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exam.md",
+                "file": "checking the validity of the argument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exam.md"
+                "file": "checking the validity of the argument.md"
               }
             }
           },
@@ -179,12 +191,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37155b5c4196119e",
+  "active": "171a00b145b48790",
   "lastOpenFiles": [
+    "exam.md",
+    "checking the validity of the argument.md",
     "Logical Equivalences.md",
     "The logic of compound statemetns.md",
     "Untitled.md",
-    "exam.md",
     "discrete math symbols.md",
     "logical connection.md",
     "lab2",
