@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "lab3/variants of universal conditional statments.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "lab3/variants of universal conditional statments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "lab3/variants of universal conditional statments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logical Equivalences.md"
+                "file": "lab3/variants of universal conditional statments.md"
               }
             }
           },
@@ -193,9 +193,10 @@
   },
   "active": "171a00b145b48790",
   "lastOpenFiles": [
+    "lab3/Predicates and Quantified Statements.md",
+    "Logical Equivalences.md",
     "README.md",
     "The logic of compound statemetns.md",
-    "Logical Equivalences.md",
     "checking the validity of the argument.md",
     "exam.md",
     "Untitled.md",
@@ -204,7 +205,6 @@
     "lab2",
     "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf",
     "lab3/variants of universal conditional statments.md",
-    "lab3/Predicates and Quantified Statements.md",
     "lab3/negation of quatiied statement.md",
     "lab3/necessary and sufficient conditions , only if.md",
     "lab3/Interpreting Multiply-Quantified Statements.md",
