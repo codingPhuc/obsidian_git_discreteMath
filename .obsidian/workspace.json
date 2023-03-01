@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checking the validity of the argument.md",
+                "file": "Logical Equivalences.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "checking the validity of the argument.md",
+                "file": "Logical Equivalences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "checking the validity of the argument.md",
+                "file": "Logical Equivalences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "checking the validity of the argument.md"
+                "file": "Logical Equivalences.md"
               }
             }
           },
@@ -193,10 +193,11 @@
   },
   "active": "171a00b145b48790",
   "lastOpenFiles": [
-    "exam.md",
-    "checking the validity of the argument.md",
-    "Logical Equivalences.md",
+    "README.md",
     "The logic of compound statemetns.md",
+    "Logical Equivalences.md",
+    "checking the validity of the argument.md",
+    "exam.md",
     "Untitled.md",
     "discrete math symbols.md",
     "logical connection.md",
@@ -206,7 +207,6 @@
     "lab3/Predicates and Quantified Statements.md",
     "lab3/negation of quatiied statement.md",
     "lab3/necessary and sufficient conditions , only if.md",
-    "README.md",
     "lab3/Interpreting Multiply-Quantified Statements.md",
     "pdf/501044-DiscreteStructures-8_Sets.pdf",
     "all symbol and how to type them.md",
