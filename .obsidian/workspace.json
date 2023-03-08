@@ -47,9 +47,11 @@
             "id": "52a75ae67d621f70",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Logical Equivalences.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab3/variants of universal conditional statments.md",
+                "file": "Logical Equivalences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab3/variants of universal conditional statments.md",
+                "file": "Logical Equivalences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab3/variants of universal conditional statments.md"
+                "file": "Logical Equivalences.md"
               }
             }
           },
@@ -203,13 +205,13 @@
   },
   "active": "52a75ae67d621f70",
   "lastOpenFiles": [
+    "The logic of compound statemetns.md",
     "lab3/Predicates and Quantified Statements.md",
     "lab3/negation of quatiied statement.md",
     "lab3/necessary and sufficient conditions , only if.md",
     "lab3/variants of universal conditional statments.md",
     "Logical Equivalences.md",
     "README.md",
-    "The logic of compound statemetns.md",
     "checking the validity of the argument.md",
     "exam.md",
     "Untitled.md",
