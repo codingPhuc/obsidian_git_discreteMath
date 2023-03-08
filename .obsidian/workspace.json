@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab3/variants of universal conditional statments.md",
+                "file": "discrete math symbols.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab3/variants of universal conditional statments.md",
+                "file": "discrete math symbols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab3/variants of universal conditional statments.md",
+                "file": "discrete math symbols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab3/variants of universal conditional statments.md"
+                "file": "discrete math symbols.md"
               }
             }
           },
@@ -205,6 +205,8 @@
   },
   "active": "52a75ae67d621f70",
   "lastOpenFiles": [
+    "checking the validity of the argument.md",
+    "lab3/variants of universal conditional statments.md",
     "lab3/Predicates and Quantified Statements.md",
     "exam.md",
     "logical connection.md",
@@ -213,9 +215,7 @@
     "Logical Equivalences.md",
     "lab3/negation of quatiied statement.md",
     "lab3/necessary and sufficient conditions , only if.md",
-    "lab3/variants of universal conditional statments.md",
     "README.md",
-    "checking the validity of the argument.md",
     "discrete math symbols.md",
     "lab2",
     "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf",
