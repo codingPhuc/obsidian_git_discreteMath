@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "78cf7af5aaf3bfde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inference test (part 1 ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "46edc8e5aac44fbd",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "inference test (part 1 ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "inference test (part 1 ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logical Equivalences.md"
+                "file": "inference test (part 1 ).md"
               }
             }
           },
@@ -203,8 +215,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52a75ae67d621f70",
+  "active": "78cf7af5aaf3bfde",
   "lastOpenFiles": [
+    "Logical Equivalences.md",
+    "inference test (part 1 ).md",
     "pdf/501044-DiscreteStructures-1_Propositional2BLogic.pdf",
     "discrete math symbols.md",
     "checking the validity of the argument.md",
@@ -213,7 +227,6 @@
     "lab3/Predicates and Quantified Statements.md",
     "lab3/Interpreting Multiply-Quantified Statements.md",
     "lab3/necessary and sufficient conditions , only if.md",
-    "Logical Equivalences.md",
     "logical connection.md",
     "Mid_term exam.md",
     "README.md",
