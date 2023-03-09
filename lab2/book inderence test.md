@@ -14,7 +14,9 @@ part 3
 - part 2 ~p$\lor$ q  
 -   ~p $\lor$ q - > r 
 - concusion : r 
-- 
+part 4 
+concsion ~s (part1 and part 3 )
+
 
 
 
