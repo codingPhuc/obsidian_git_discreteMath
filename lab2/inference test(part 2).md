@@ -14,5 +14,6 @@ part 2
 ~(S $\land$ D)
 part 3 
 ~(S $\land$ D) 
-~(~RV  ~F ) ->(S^D)
-~P = ~()
+(~RV  ~F ) ->(S^D)( modus tollen)
+~P = ~(~ R V ~F ) = R^F (simplification rule)
+concusion :R 
