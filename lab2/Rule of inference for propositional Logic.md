@@ -21,5 +21,8 @@ types of inference Rule :
 | concusion              | p$\lor$ q                 | p->(p$\lor$ q )                    |
 | conjunction            | p                         |                                    |
 |                        | q                         |                                    |
-| concusion              | p$\land$ q                | (p $\land$ q )                                   |
+| concusion              | p$\land$ q                | ((p) $\land$ (q) )->(p$\land$ q )  |
+| resolution             |p$\lor$ q                    | ((p$\lor$ q )$\land$ (~p $\lor$ r)) -> (q$\lor$ r )            |
+|                        | ~p$\lor$ q                |                                    |
+|concusion                        | q$\lor$ r                 |                                    |
 
