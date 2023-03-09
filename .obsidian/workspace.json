@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab2/inference test(part 2).md",
+                "file": "lab2/Rule of inference for propositional Logic.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab2/inference test(part 2).md",
+                "file": "lab2/Rule of inference for propositional Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab2/inference test(part 2).md",
+                "file": "lab2/Rule of inference for propositional Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab2/inference test(part 2).md"
+                "file": "lab2/Rule of inference for propositional Logic.md"
               }
             }
           },
@@ -265,9 +265,9 @@
   },
   "active": "373250391f6d7474",
   "lastOpenFiles": [
-    "lab2/Rule of inference for propositional Logic.md",
     "lab2/inference test(part 2).md",
     "lab2/inference test (part 1 ).md",
+    "lab2/Rule of inference for propositional Logic.md",
     "Untitled 2.md",
     "lab2/Untitled",
     "Untitled 1.md",

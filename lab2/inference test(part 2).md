@@ -11,6 +11,8 @@ S ->T (modus tollen)
 concusion : ~S 
 part 2 
 ~S $\lor$ ~D (Addition rule )
-~(S )
+~(S $\land$ D)
 part 3 
-
+~(S $\land$ D) 
+~(~RV  ~F ) ->(S^D)
+~P = ~()
