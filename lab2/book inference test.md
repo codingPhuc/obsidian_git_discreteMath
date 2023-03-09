@@ -33,7 +33,19 @@ u $\lor$ w
 ~w 
 concusion u (rule of disconcusion)
 part 2 
-
+u 
+u -> ~p 
+concusion ~p ( rule of modus tollen  )
+part 3 
+part 2 ~p 
+~p -> r^~s 
+concusion r $\land$ ~s 
+part 4 
+r $\land$ ~s 
+concusion r , ~s (simplepy cation rule)
+part 5 
+part 4 ~s 
+t -> s
 
 
 
