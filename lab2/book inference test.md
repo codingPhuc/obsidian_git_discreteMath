@@ -21,6 +21,23 @@ s $\lor$ ~q  (disconcusion )
 ~s 
 conscsion 
 
+# ex 3 
+1. ~ p->r $\land$ ~s
+2. t -> s 
+3. u -> ~ p 
+4. ~w 
+5. u $\lor$ w 
+concusion : ~t 
+part 1 
+u $\lor$ w 
+~w 
+concusion u (rule of disconcusion)
+part 2 
+
+
+
+
+
 
 
 
