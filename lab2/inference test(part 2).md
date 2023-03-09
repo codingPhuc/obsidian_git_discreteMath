@@ -1,0 +1,1 @@
+premises " if it does not rain or if it is not foggy , then the sailing race will be held and the lifesaving demonstration will go on", "If the sailing race is held , then the "

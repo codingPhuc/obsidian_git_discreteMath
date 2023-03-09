@@ -6,10 +6,15 @@ let :
 H = Randy works hard , D  = randy is a dull boy , J = Randy will get the job 
 H 
 H -> D 
-D -> J 
+D ->~ J 
 concusion : ~J 
 part 1 
 H 
-H -> D 
+H -> D  (modus pones )
 concusion : D 
-oa
+part 2 
+D -> j (modus pones )
+D 
+concusion : ~j 
+
+
