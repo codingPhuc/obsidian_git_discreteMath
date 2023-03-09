@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "lab2/logic laws examples test.md",
                 "mode": "source",
                 "source": false
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "lab2/logic laws examples test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logical Equivalences.md",
+                "file": "lab2/logic laws examples test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logical Equivalences.md"
+                "file": "lab2/logic laws examples test.md"
               }
             }
           },
@@ -337,19 +337,19 @@
   },
   "active": "ee905f8b13af4380",
   "lastOpenFiles": [
+    "lab2/tarski world test.md",
+    "lab2/Rule of inference for propositional Logic.md",
+    "lab2/inference exam test.md",
+    "lab2/inference test(part 2).md",
+    "lab2/book inference test.md",
+    "Logical Equivalences.md",
     "lab2/logic laws examples test.md",
     "Untitled 4.md",
-    "lab2/Rule of inference for propositional Logic.md",
-    "lab2/tarski world test.md",
-    "lab2/inference exam test.md",
-    "lab2/book inference test.md",
-    "lab2/inference test(part 2).md",
     "lab2/inference test (part 1 ).md",
     "Untitled 3.md",
     "Untitled 2.md",
     "lab2/Untitled",
     "Untitled 1.md",
-    "Logical Equivalences.md",
     "pdf/501044-DiscreteStructures-1_Propositional2BLogic.pdf",
     "discrete math symbols.md",
     "checking the validity of the argument.md",
