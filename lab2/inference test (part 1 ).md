@@ -8,4 +8,8 @@ H
 H -> D 
 D -> J 
 concusion : ~J 
-ap
+part 1 
+H 
+H -> D 
+concusion : D 
+

@@ -61,7 +61,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inference test (part 1 ).md",
+                "file": "lab2/inference test (part 1 ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3889ba9ecb9d0e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6adbb5c3f9719313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab2/Rule of inference for propositional Logic.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inference test (part 1 ).md",
+                "file": "lab2/Rule of inference for propositional Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inference test (part 1 ).md",
+                "file": "lab2/Rule of inference for propositional Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inference test (part 1 ).md"
+                "file": "lab2/Rule of inference for propositional Logic.md"
               }
             }
           },
@@ -215,10 +239,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78cf7af5aaf3bfde",
+  "active": "6adbb5c3f9719313",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "lab2/Rule of inference for propositional Logic.md",
+    "lab2/inference test (part 1 ).md",
     "Logical Equivalences.md",
-    "inference test (part 1 ).md",
     "pdf/501044-DiscreteStructures-1_Propositional2BLogic.pdf",
     "discrete math symbols.md",
     "checking the validity of the argument.md",
