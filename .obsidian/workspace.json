@@ -116,6 +116,30 @@
             }
           },
           {
+            "id": "2480099ef1f9a201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ece961b32451179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab2/book inderence test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "46edc8e5aac44fbd",
             "type": "leaf",
             "state": {
@@ -126,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -192,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab2/inference test(part 2).md",
+                "file": "lab2/book inderence test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab2/inference test(part 2).md",
+                "file": "lab2/book inderence test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab2/inference test(part 2).md"
+                "file": "lab2/book inderence test.md"
               }
             }
           },
@@ -263,11 +287,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "373250391f6d7474",
+  "active": "6ece961b32451179",
   "lastOpenFiles": [
+    "Untitled 3.md",
+    "lab2/book inderence test.md",
+    "lab2/inference test(part 2).md",
     "lab2/inference test (part 1 ).md",
     "lab2/Rule of inference for propositional Logic.md",
-    "lab2/inference test(part 2).md",
     "Untitled 2.md",
     "lab2/Untitled",
     "Untitled 1.md",
