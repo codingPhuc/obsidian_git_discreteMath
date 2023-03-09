@@ -140,6 +140,18 @@
             }
           },
           {
+            "id": "f6035c5e7ad9d380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab2/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "46edc8e5aac44fbd",
             "type": "leaf",
             "state": {
@@ -150,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -216,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab2/book inference test.md",
+                "file": "lab2/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab2/book inference test.md",
+                "file": "lab2/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab2/book inference test.md"
+                "file": "lab2/Untitled.md"
               }
             }
           },
@@ -287,11 +299,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ece961b32451179",
+  "active": "f6035c5e7ad9d380",
   "lastOpenFiles": [
+    "lab2/book inference test.md",
+    "lab2/Untitled.md",
     "lab2/Rule of inference for propositional Logic.md",
     "lab2/inference test(part 2).md",
-    "lab2/book inference test.md",
     "lab2/inference test (part 1 ).md",
     "Untitled 3.md",
     "Untitled 2.md",

@@ -46,6 +46,8 @@ concusion r , ~s (simplepy cation rule)
 part 5 
 part 4 ~s 
 t -> s
+concusion ~t 
+
 
 
 
