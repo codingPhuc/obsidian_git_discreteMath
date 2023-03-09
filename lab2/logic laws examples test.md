@@ -1,0 +1,7 @@
+bases on this video  : https://www.youtube.com/watch?v=386Hpy6txtU
+1 . ~ ((p$\lor$ q ) -> r )
+2. ~ ( ~( p$\lor$ q ) $\lor$ r )
+3.  (p $\lor$ q ) $\land$ ~r  
+ 
+prove that (~ p $\lor$ q) $\land$( p $\land$(p $\land$ q))
+

@@ -157,7 +157,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab2/tarski world test.md",
+                "file": "lab2/Rule of inference for propositional Logic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b98387b832a4806c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee905f8b13af4380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logical Equivalences.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -240,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab2/tarski world test.md",
+                "file": "Logical Equivalences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab2/tarski world test.md",
+                "file": "Logical Equivalences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab2/tarski world test.md"
+                "file": "Logical Equivalences.md"
               }
             }
           },
@@ -311,12 +335,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cad8e1b0090725d8",
+  "active": "ee905f8b13af4380",
   "lastOpenFiles": [
-    "lab2/inference exam test.md",
-    "lab2/tarski world test.md",
-    "lab2/book inference test.md",
+    "lab2/logic laws examples test.md",
+    "Untitled 4.md",
     "lab2/Rule of inference for propositional Logic.md",
+    "lab2/tarski world test.md",
+    "lab2/inference exam test.md",
+    "lab2/book inference test.md",
     "lab2/inference test(part 2).md",
     "lab2/inference test (part 1 ).md",
     "Untitled 3.md",
