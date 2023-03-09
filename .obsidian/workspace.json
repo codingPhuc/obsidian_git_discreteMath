@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab2/tarski world.md",
+                "file": "lab2/tarski world test.md",
                 "mode": "source",
                 "source": false
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab2/tarski world.md",
+                "file": "lab2/tarski world test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab2/tarski world.md",
+                "file": "lab2/tarski world test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab2/tarski world.md"
+                "file": "lab2/tarski world test.md"
               }
             }
           },
@@ -311,10 +311,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0082c20716b98789",
+  "active": "cad8e1b0090725d8",
   "lastOpenFiles": [
     "lab2/inference exam test.md",
-    "lab2/tarski world.md",
+    "lab2/tarski world test.md",
     "lab2/book inference test.md",
     "lab2/Rule of inference for propositional Logic.md",
     "lab2/inference test(part 2).md",

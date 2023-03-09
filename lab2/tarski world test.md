@@ -1,3 +1,4 @@
+bases on this video https://www.youtube.com/watch?v=DnIJZNjlycU
 $\forall$t , triangle(t) -> Bule(t)
 if a shape is a triangle , then the shape is bule 
 $\exists$ , Bule(x)  $\land$  ~triangle(x) 
@@ -12,4 +13,6 @@ $\forall$x , $\exists$y  triangle(x)$\land$spare(y)$\land$samecolor(s,y)
 1.  for all circle x , x is above f 
 $\forall$ circle(x ) ,above(x,f)
 3. for all circles x  , there is a spuare y such that x and y have the same color . 
-$\forall$
+$\forall$x cicler(x) , $\exists$y spare(y) , sameColor(y 
+
+)
