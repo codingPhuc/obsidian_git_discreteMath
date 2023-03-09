@@ -16,6 +16,13 @@ part 3
 - concusion : r 
 part 4 
 concsion ~s (part1 and part 3 )
+part 5 
+s $\lor$ ~q  (disconcusion )
+~s 
+conscsion 
+
+
+
 
 
 
