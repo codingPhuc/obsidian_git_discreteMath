@@ -10,4 +10,7 @@ prove that (~ p $\lor$ q) $\land$( p $\land$(p $\land$ q)) <->  p$\land$  q
 3. F $\lor$ (p $\land$ q )
 4. p $\land$ q 
 
-prove that ( p $\lor$ q ) ->(p->q )
+prove that ( p $\lor$ q ) ->(q->q )is a tautology 
+( p$\land$ q ) ->T 
+~(p $\land$ q ) $\lor$ T 
+T
