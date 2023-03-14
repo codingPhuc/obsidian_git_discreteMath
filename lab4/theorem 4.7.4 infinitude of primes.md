@@ -31,4 +31,4 @@ DEFINITION 4.5.1(GREATEST COMMON DIVISOR)
 let a and b be integers , not both zero . The greatest common 
 divisor of a and b , denoted gcd(a,b) m is the integer d satisfying : 
 (i) d | a and d|b 
-(
+(ii) $\forall$ c thuộc Z if c | a and c |b then c =<d .
