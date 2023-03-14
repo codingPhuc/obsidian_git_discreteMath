@@ -1,0 +1,1 @@
+An integer n is prime number if ,and onl
