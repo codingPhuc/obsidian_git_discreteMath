@@ -23,4 +23,5 @@ if a set S of integers has a greates element , then the greatest element is uniq
 theorem 4.4.1(Quotient-remainder theorem)
 given any integer a and any positive integer b , there exist unique integer q and r such that : 
 	a = bq + r and 0=< r < b 
-the integer q is called the q
+the integer q is called the quotient , while r is called the remainder  
+note the limit on r : r lies in the range 0 ,1 , 2, 

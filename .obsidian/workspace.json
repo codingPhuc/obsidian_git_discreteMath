@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab4/theorem 4.7.4 infinitude of primes.md",
+                "file": "lab2/inference test(part 2).md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab4/theorem 4.7.4 infinitude of primes.md",
+                "file": "lab2/inference test(part 2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab4/theorem 4.7.4 infinitude of primes.md",
+                "file": "lab2/inference test(part 2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab4/theorem 4.7.4 infinitude of primes.md"
+                "file": "lab2/inference test(part 2).md"
               }
             }
           },
@@ -263,10 +263,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c8486af3c7a59d7d",
+  "active": "0082c20716b98789",
   "lastOpenFiles": [
-    "lab4/definition 4.2.1 (prime number).md",
+    "lab2/inference test (part 1 ).md",
     "lab4/theorem 4.7.4 infinitude of primes.md",
+    "lab4/definition 4.2.1 (prime number).md",
     "Untitled 2.md",
     "lab2/inference test(part 2).md",
     "Untitled 3.md",
@@ -282,7 +283,6 @@
     "lab2/book inference test.md",
     "Logical Equivalences.md",
     "Untitled 4.md",
-    "lab2/inference test (part 1 ).md",
     "lab2/Untitled",
     "Untitled 1.md",
     "pdf/501044-DiscreteStructures-1_Propositional2BLogic.pdf",
