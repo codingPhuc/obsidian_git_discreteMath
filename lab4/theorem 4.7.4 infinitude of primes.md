@@ -16,3 +16,11 @@ n = p1 , p2 ,....., pk
 and any other expression for n as a product of prime numbers is identical to this , except , perhaps m for the order in which the factors are written  
 ## proposiition 4.3.3 (Uniqueness of least element)
 if a set of integers has a least element , then the least element is unique 
+
+### proposition 4.3.4 (Uniqueness of gratest element)
+if a set S of integers has a greates element , then the greatest element is unique 
+
+theorem 4.4.1(Quotient-remainder theorem)
+given any integer a and any positive integer b , there exist unique integer q and r such that : 
+	a = bq + r and 0=< r < b 
+the integer q is called the q
