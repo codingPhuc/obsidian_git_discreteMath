@@ -188,6 +188,42 @@
             }
           },
           {
+            "id": "dcb2e6187fbf808b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6fd5672994a2407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "834a6653417520eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab4/4.1  recap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "46edc8e5aac44fbd",
             "type": "leaf",
             "state": {
@@ -198,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -264,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab2/logic laws examples test.md",
+                "file": "lab4/4.1  recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +317,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab2/logic laws examples test.md",
+                "file": "lab4/4.1  recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +340,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab2/logic laws examples test.md"
+                "file": "lab4/4.1  recap.md"
               }
             }
           },
@@ -335,15 +371,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee905f8b13af4380",
+  "active": "834a6653417520eb",
   "lastOpenFiles": [
+    "Untitled 6.md",
+    "lab4/4.1  recap.md",
+    "Untitled 5.md",
+    "lab2/logic laws examples test.md",
+    "lab4",
     "lab2/tarski world test.md",
     "lab2/Rule of inference for propositional Logic.md",
     "lab2/inference exam test.md",
     "lab2/inference test(part 2).md",
     "lab2/book inference test.md",
     "Logical Equivalences.md",
-    "lab2/logic laws examples test.md",
     "Untitled 4.md",
     "lab2/inference test (part 1 ).md",
     "Untitled 3.md",
@@ -362,11 +402,9 @@
     "Mid_term exam.md",
     "README.md",
     "The logic of compound statemetns.md",
-    "Untitled.md",
     "lab2",
     "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf",
     "pdf/501044-DiscreteStructures-8_Sets.pdf",
-    "all symbol and how to type them.md",
     "pdf/501044-DiscreteStructures-0-IntroductiontoDiscreteStructures.pdf",
     "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
     "pdf/501044-DiscreteStructures-6_7_Sequences_and_Recursion.pdf",
