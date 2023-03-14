@@ -25,3 +25,10 @@ given any integer a and any positive integer b , there exist unique integer q an
 	a = bq + r and 0=< r < b 
 the integer q is called the quotient , while r is called the remainder  
 note the limit on r : r lies in the range 0 ,1 , 2, 
+
+## 4.5 GREATES COMMON DIVISOR 
+DEFINITION 4.5.1(GREATEST COMMON DIVISOR)
+let a and b be integers , not both zero . The greatest common 
+divisor of a and b , denoted gcd(a,b) m is the integer d satisfying : 
+(i) d | a and d|b 
+(
