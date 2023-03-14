@@ -6,4 +6,5 @@ n is composite <-> $\exists$ positive integers r and s such that n = rs
 							and 1<r <n and 1 < s < n. 
 
 - 1 is neither prime nor composite 
-- the first few primes are 2,3,5,7
+- the first few primes are 2,3,5,7,11,13,17,19 
+- the first few composites are : 4,6,8,9,10 ,12,14,15
