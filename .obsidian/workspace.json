@@ -236,6 +236,18 @@
             }
           },
           {
+            "id": "6eebb48474acd3cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab4/theorem 4.7.4 infinitude of primes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "46edc8e5aac44fbd",
             "type": "leaf",
             "state": {
@@ -246,7 +258,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -312,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab4/definition 4.2.1 (prime number).md",
+                "file": "lab4/theorem 4.7.4 infinitude of primes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -329,7 +341,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab4/definition 4.2.1 (prime number).md",
+                "file": "lab4/theorem 4.7.4 infinitude of primes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -352,7 +364,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab4/definition 4.2.1 (prime number).md"
+                "file": "lab4/theorem 4.7.4 infinitude of primes.md"
               }
             }
           },
@@ -383,10 +395,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e8d21c0a471a07e7",
+  "active": "6eebb48474acd3cd",
   "lastOpenFiles": [
-    "lab4/4.1  recap.md",
     "lab4/definition 4.2.1 (prime number).md",
+    "lab4/theorem 4.7.4 infinitude of primes.md",
+    "lab4/4.1  recap.md",
     "Untitled 6.md",
     "Untitled 5.md",
     "lab2/logic laws examples test.md",
@@ -413,7 +426,6 @@
     "lab3/necessary and sufficient conditions , only if.md",
     "logical connection.md",
     "Mid_term exam.md",
-    "README.md",
     "lab2",
     "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf",
     "pdf/501044-DiscreteStructures-8_Sets.pdf",
