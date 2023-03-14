@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "lab4/theorem 4.7.4 infinitude of primes.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "lab4/theorem 4.7.4 infinitude of primes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "lab4/theorem 4.7.4 infinitude of primes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "lab4/theorem 4.7.4 infinitude of primes.md"
               }
             }
           },
@@ -265,12 +265,13 @@
   },
   "active": "c8486af3c7a59d7d",
   "lastOpenFiles": [
+    "lab4/definition 4.2.1 (prime number).md",
+    "lab4/theorem 4.7.4 infinitude of primes.md",
+    "Untitled 2.md",
     "lab2/inference test(part 2).md",
     "Untitled 3.md",
     "Untitled 6.md",
     "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf",
-    "lab4/theorem 4.7.4 infinitude of primes.md",
-    "lab4/definition 4.2.1 (prime number).md",
     "lab4/4.1  recap.md",
     "Untitled 5.md",
     "lab2/logic laws examples test.md",
@@ -282,7 +283,6 @@
     "Logical Equivalences.md",
     "Untitled 4.md",
     "lab2/inference test (part 1 ).md",
-    "Untitled 2.md",
     "lab2/Untitled",
     "Untitled 1.md",
     "pdf/501044-DiscreteStructures-1_Propositional2BLogic.pdf",
