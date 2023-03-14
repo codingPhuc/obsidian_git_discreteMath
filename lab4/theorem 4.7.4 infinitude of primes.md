@@ -34,4 +34,14 @@ divisor of a and b , denoted gcd(a,b) m is the integer d satisfying :
 (ii) $\forall$ c thuộc Z if c | a and c |b then c =< d 
 
 ## code  euclid's algorithm for gcd 
-def gcd 
+
+```
+def gcd(I, CAN) : 
+	# assumes i> 0 ,can >=0 
+	# computes gcd using euclid's algorithmm 
+	while CAN > 0 : 
+		DOIT = I % CAN 
+		(I, CAN)= (CAN , DOIT)
+	RETURN I 
+```
+
