@@ -15,4 +15,4 @@ given any integers n> 1 , there exist a positive integer k , distinct prime numb
 n = p1 , p2 ,....., pk
 and any other expression for n as a product of prime numbers is identical to this , except , perhaps m for the order in which the factors are written  
 ## proposiition 4.3.3 (Uniqueness of least element)
-if a set of integers has a least ele
+if a set of integers has a least element , then the least element is unique 
