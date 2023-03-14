@@ -45,3 +45,5 @@ def gcd(I, CAN) :
 	RETURN I 
 ```
 
+definition 4.5.4 (relatively prime)
+integers a and b are relatively prime (or coprime) iff gcd (a,b) = 1 
