@@ -12,5 +12,5 @@ we have this formula :
 	then we move each number to the right braket number to left
 	27 = 14 * 1 + 13 
 	and so on 
-	14= 13 * 1 +1 
+	14= 13 * 1 +1
 
