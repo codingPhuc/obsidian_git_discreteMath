@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essay/Untitled.md",
+                "file": "essay/essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essay/Untitled.md",
+                "file": "essay/essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "essay/Untitled.md",
+                "file": "essay/essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essay/Untitled.md"
+                "file": "essay/essay.md"
               }
             }
           },
@@ -160,7 +160,7 @@
   "lastOpenFiles": [
     "lab2/inference test(part 2).md",
     "lab2/book inference test.md",
-    "essay/Untitled.md",
+    "essay/essay.md",
     "Logical Equivalences.md",
     "Mid_term exam.md",
     "lab3/variants of universal conditional statments.md",
