@@ -22,7 +22,17 @@ exp : send "B"tranform it into number 2
 ciphertext : D 
 decryption:(11,14)
 4^11 (mod 14)= 4194304(mod 14)
-					= 29
+					= 299593.1429... ( take note of the integer part of the number )
+					subtract the integer part of the number 
+					= you will be left with a decimal ie : 0.1429 
+					multiple the number with mode 14 
+					= 1.999
+					round it up we will have 2 which is the text "B"
+## how does rsa work 
+1. first you need to pick two prime number 
+2. come up with a number that is a product of both  this number became the mod in public and private key 
+3. come up with the five function 
+4. 
 
 
 
