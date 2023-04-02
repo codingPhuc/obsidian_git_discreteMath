@@ -14,4 +14,17 @@ we have this formula :
 	and so on 
 	14= 13 * 1 +1
 ## RSA encrytion algorithms 
+encryption : (5,14) 
+we need this pair of number it is a lock 
+exp : send "B"tranform it into number 2 
+2^5 (mod 14) = 32(mod 14)
+					= 4 (mod 14) get the remainder of the number 32
+ciphertext : D 
+decryption:(11,14)
+4^11 (mod 14)= 4194304(mod 14)
+					= 
+
+
+
+
 
