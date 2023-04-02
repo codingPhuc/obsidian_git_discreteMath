@@ -30,10 +30,11 @@ decryption:(11,14)
 					round it up we will have 2 which is the text "B"
 ## how does rsa work 
 1. first you need to pick two prime number 
-2. come up with a number that is a product of both  this number became the mod in public and private key 
-3. list out all the number form 1 to  product of two prime number above and check if they have a comman factor 
-4. then you will have all the coprime of 14 
-5. 
+2. come up with a number that is a product of both the prime    number above let call it N, N became the mod in public and private key 
+3. list out all the number  that have a common factor with N 
+4. $\phi$(N) = 
+
+![[Pasted image 20230402085839.png]]
 
 
 
