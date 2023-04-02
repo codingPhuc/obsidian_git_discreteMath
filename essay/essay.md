@@ -28,11 +28,14 @@ decryption:(11,14)
 					multiple the number with mode 14 
 					= 1.999
 					round it up we will have 2 which is the text "B"
-## how does rsa work 
+## how does RSA work 
 1. first you need to pick two prime number 
 2. come up with a number that is a product of both the prime    number above let call it N, N became the mod in public and private key 
 3. list out all the number  that have a common factor with N 
-4. $\phi$(N) = 
+4. $\phi$(N) = (p-1)(q-1) = 1* 6  = 6 
+5. chose a number e with acondition that 1<e < $\phi$(N) and coprime with both ( $\phi$(N)  and N )
+6. chose the deription number d  by using a formula de(mod$\phi$(N)  )= 1 calcualte it so that we can find d 
+
 
 ![[Pasted image 20230402085839.png]]
 
