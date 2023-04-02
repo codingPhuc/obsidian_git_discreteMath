@@ -22,7 +22,7 @@ exp : send "B"tranform it into number 2
 ciphertext : D 
 decryption:(11,14)
 4^11 (mod 14)= 4194304(mod 14)
-					= 
+					= 29
 
 
 
