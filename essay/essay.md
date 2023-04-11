@@ -39,7 +39,12 @@ decryption:(11,14)
 
 ![[Pasted image 20230402085839.png]]
 
-
-
-
-
+1.1 understanding mathmatical concepts 
+- explain prime number generation , modular arthmetic  , extended Euclidean algorithm, prime factorization then make 1 expample for each 
+1.2 implement python program 
+insert in the python program 
+explain the main ideal of each function 
+explain the output
+1.3 Analyze the efficiency and security of the implemented RSA cryptosystem.
+1.4 Discuss the potential security threats and limitations of the RSA cryptosystem.
+1.5 Conclude with recommendations for improving the RSA cryptosystem implementation.
