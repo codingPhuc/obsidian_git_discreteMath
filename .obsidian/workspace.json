@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "joblib.md",
+                "file": "lab2/inference exam test.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "joblib.md",
+                "file": "lab2/inference exam test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "joblib.md",
+                "file": "lab2/inference exam test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "joblib.md"
+                "file": "lab2/inference exam test.md"
               }
             }
           },
@@ -171,8 +171,10 @@
   },
   "active": "7f19a27c2665eb29",
   "lastOpenFiles": [
-    "essay/essay.md",
+    "lab2/logic laws examples test.md",
+    "lab2/tarski world test.md",
     "joblib.md",
+    "essay/essay.md",
     "Pasted image 20230402085839.png",
     "lab2/inference test(part 2).md",
     "lab2/book inference test.md",
@@ -191,9 +193,7 @@
     "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf",
     "lab4/4.1  recap.md",
     "Untitled 5.md",
-    "lab2/logic laws examples test.md",
     "lab4",
-    "lab2/tarski world test.md",
     "lab2/Rule of inference for propositional Logic.md",
     "lab2/inference exam test.md",
     "Untitled 4.md",
