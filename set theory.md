@@ -19,4 +19,11 @@ Z = {-inf ,..,0,1,...,+inf}
 ### Rational number 
 Q ={any number you can write as a faction}
 ## elements and cardinality
-le
+let C ={yellow , bule, red}
+"yellow is an element of C" yellow $\in$ C 
+"green is not an element of C" green $\notin$ C 
+"the cardinality of C is 3" |C| =3 
+## the empty set 
+$\emptyset$ 
+
+
