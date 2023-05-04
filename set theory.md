@@ -31,5 +31,14 @@ question what is the size of a set if it have an empty set ?
 - the answer is 1 
 | {$\emptyset$} | =1  
 ## set bulder notation 
-[how to write ]
+[how to write set so that it can be shortent]
+Q  = {-1/2, -1/3 , ... , 0 ,1/3 ,1/2 .... }
+we can rewrite it as {m/n | m,n $\in$ Z , n $\neq$ 0}
+### even integer 
+2*Z  = { ..,-4 ,-2 ,0,2 ,4 ,...}
+		= {2n | n $\in$ Z}
 
+desk = {drink ,laptop , mircrophone}
+		= {x|x is on my desk}
+exercises 
+ 
