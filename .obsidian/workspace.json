@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "set theory.md",
+                "file": "Set operations and Venn Diagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "set theory.md",
+                "file": "Set operations and Venn Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "set theory.md",
+                "file": "Set operations and Venn Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "set theory.md"
+                "file": "Set operations and Venn Diagrams.md"
               }
             }
           },
@@ -179,11 +179,12 @@
   },
   "active": "ea86e83e0bc69ea7",
   "lastOpenFiles": [
+    "set theory.md",
+    "Set operations and Venn Diagrams.md",
     "picture/set.PNG",
     "set.PNG",
     "picture",
     "EXAM final test.md",
-    "set theory.md",
     "The logic of compound statemetns.md",
     "Untitled 1.md",
     "Untitled 7.md",
