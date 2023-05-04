@@ -33,8 +33,14 @@ C $\cap$ B = {4,16}
 C -B = {1,9}
 $\emptyset  \cap$  B =   {}
 ## EXERCISE 2 
-A= [0,2]  and B = [1,6] ,determine the following where U = R 
+A= [0,2]  and B = [1,6)] ,determine the following where U = R 
 - A $\cap$ B  = [1,2]
-- A $\cup$ B = 
-- B - A = 
-- $\lnot$ A=  
+- A $\cup$ B = [0,6)]
+- B - A = (2, 6) 
+- $\lnot$ A=  [-inf , 0)]  $\cup$ (2,inf ]
+find sets A and B where 
+-  A -B = {1,3,7,11}
+- B -A = {2,6,8}
+- B$\cap$ A  = {4,9}
+A = {1,3,7,11,4,9}
+B = {}
