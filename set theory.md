@@ -15,4 +15,8 @@ there is no order in a set
 ### natural number 
 N = {0,1,2,3,...} or {1,2,3,...}
 ### integers 
-Z = {-inf ,..,0,1,
+Z = {-inf ,..,0,1,...,+inf}
+### Rational number 
+Q ={any number you can write as a faction}
+## elements and cardinality
+le
