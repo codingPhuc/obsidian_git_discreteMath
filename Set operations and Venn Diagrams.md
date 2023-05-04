@@ -32,3 +32,9 @@ $A \cup B$  ={1,3,5,7,9,4,8,12,16}
 C $\cap$ B = {4,16}
 C -B = {1,9}
 $\emptyset  \cap$  B =   {}
+## EXERCISE 2 
+A= [0,2]  and B = [1,6] ,determine the following where U = R 
+- A $\cap$ B  = [1,2]
+- A $\cup$ B = 
+- B - A = 
+- $\lnot$ A=  
