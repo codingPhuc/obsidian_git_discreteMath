@@ -24,6 +24,12 @@ let C ={yellow , bule, red}
 "green is not an element of C" green $\notin$ C 
 "the cardinality of C is 3" |C| =3 
 ## the empty set 
-$\emptyset$ 
+$\emptyset$ = {}
+| $\emptyset$ | = 0 
 
+question what is the size of a set if it have an empty set ? 
+- the answer is 1 
+| {$\emptyset$} | =1  
+## set bulder notation 
+[how to write ]
 
