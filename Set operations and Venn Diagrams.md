@@ -1,5 +1,6 @@
 connected learning : [[set theory]]
 bases on this video : https://www.youtube.com/watch?v=4TlCToZZ5gA
+https://www.youtube.com/watch?v=6RsudHXe6ZM
 ## introduction 
 every set A exist within some universe U
 U = Z =R =Z 
@@ -25,4 +26,9 @@ A-B = {1,2}
 
 ## Exercise 
 A = {1,3,5,7,9}  
-B = {4,}
+B = {4,8,12,16}
+C = {1,4,9,16}
+$A \cup B$  ={1,3,5,7,9,4,8,12,16}
+C $\cap$ B = {4,16}
+C -B = {1,9}
+$\emptyset  \cap$  B =   {}
