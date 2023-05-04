@@ -1,4 +1,5 @@
 bases on video : https://www.youtube.com/watch?v=tyDKR4FG3Yw 
+connection 
 #sumarize  
 A set is a collection of object called elements 
 ![[set.PNG]]
@@ -40,5 +41,14 @@ we can rewrite it as {m/n | m,n $\in$ Z , n $\neq$ 0}
 
 desk = {drink ,laptop , mircrophone}
 		= {x|x is on my desk}
-exercises 
+## exercise 
+given a D ={x $\in$ Z | x< 6}
+- list the element of D 
+D = {1,2,3,4,5}
+- what is the cardinality of D ? 
+| D   | = 5 
+- what is the cardinality of A = {$\emptyset$ , {a,b}}
+| A   | = 2 
+
+
  
