@@ -17,5 +17,7 @@ $\forall$x $\forall$y xRy -> yRx
 ## transitive 
 $\forall$x $\forall$y xRy $\land$ xyRz -> xRz 
 ![[d.PNG]]
-
-
+### example 
+given x-y $\neq$ 0 
+refl ? xRx-> x-x$\neq$ 0 5 -5 =0 
+sym ? 

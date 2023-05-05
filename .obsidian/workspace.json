@@ -11,8 +11,12 @@
             "id": "51c89eb40e78264f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "relation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "relation.md"
+              }
             }
           },
           {
@@ -158,6 +166,7 @@
   },
   "active": "51c89eb40e78264f",
   "lastOpenFiles": [
+    "essay/essay.md",
     "relation.md",
     "picture/d.PNG",
     "picture/sym.PNG",
@@ -191,7 +200,6 @@
     "Set operations and Venn Diagrams.md",
     "symmetric different.md",
     "picture/sym dif.PNG",
-    "essay/essay.md",
     "picture/notint.PNG",
     "The logic of compound statemetns.md",
     "Untitled 1.md",
