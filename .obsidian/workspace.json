@@ -11,9 +11,11 @@
             "id": "51c89eb40e78264f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdf/Quiz.pdf"
+                "file": "relation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/Quiz.pdf",
+                "file": "relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/Quiz.pdf",
+                "file": "relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/Quiz.pdf"
+                "file": "relation.md"
               }
             }
           },
@@ -162,55 +164,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "d23e28ceac441004",
-    "type": "floating",
-    "children": [
-      {
-        "id": "461423a573566b37",
-        "type": "window",
-        "children": [
-          {
-            "id": "1854af554b0d5aac",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "956b32e9230c4079",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "pdf/Quiz.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 824,
-        "maximize": false,
-        "zoom": -1
-      }
-    ]
-  },
-  "active": "956b32e9230c4079",
+  "active": "51c89eb40e78264f",
   "lastOpenFiles": [
-    "pdf/review.pdf",
-    "pdf/Quiz.pdf",
-    "quiz1.md",
     "EXAM final test.md",
-    "recurrent relation.md",
+    "relation.md",
     "discrete math symbols.md",
+    "recurrent relation.md",
+    "Pasted image 20230402085839.png",
+    "pdf/Quiz.pdf",
+    "pdf/review.pdf",
+    "quiz1.md",
     "checking the validity of the argument.md",
     "Mid_term exam.md",
     "logical connection.md",
     "Logical Equivalences.md",
     "joblib.md",
-    "Pasted image 20230402085839.png",
     "picture/root same.PNG",
     "picture/different root.PNG",
     "picture/the resond why.PNG",
