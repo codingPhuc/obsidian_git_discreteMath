@@ -6,15 +6,18 @@ bases on this video :[RECURRENCE RELATIONS - DISCRETE MATHEMATICS - YouTube](htt
 
 ## formula
 An - A(n-1) = K   , A0 =C  n>=1 
-
-An = A0 + $\sum_{i=1}^{n} k$ 
+convert $a_n - a_{n-1} = k$ 
+![[the resond why.PNG]]
+to An = A0 + $\sum_{i=1}^{n} k$ 
 example 
 - given A0 = 0 
 - n>=1 
 - An -A(n-1) = 2n  
 An = 0+ $\sum_{i=1}^{n} 2n$= 2$\sum_{i=1}^{n} n$ = 2 (n )(n+1) /2 
 
-### sloving  re currence Relation 
+
+
+## sloving  re currence Relation 
 we want an easy equation to find the value of any term 
 [sloving the formula mean finding the formula $a_n =?$ ]
 $a_n = 3a_{n-1}$
@@ -23,4 +26,6 @@ $a_0 = 7$
 another example 
 $a_n - a_{n-1}= k /a_0 =c$ 
 $a_n = C + \sum_{i=1}^{n}k$ 
+### hard problem 
+$a_n - a_{n-1} - 6*a_{}{n-2} =0$ 
 
