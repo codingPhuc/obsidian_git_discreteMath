@@ -188,7 +188,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 768,
         "y": 0,
         "width": 768,
         "height": 824,
@@ -197,7 +197,7 @@
       }
     ]
   },
-  "active": "51c89eb40e78264f",
+  "active": "956b32e9230c4079",
   "lastOpenFiles": [
     "pdf/review.pdf",
     "pdf/Quiz.pdf",
