@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set operations and Venn Diagrams.md",
+                "file": "quiz1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set operations and Venn Diagrams.md",
+                "file": "quiz1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set operations and Venn Diagrams.md",
+                "file": "quiz1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set operations and Venn Diagrams.md"
+                "file": "quiz1.md"
               }
             }
           },
@@ -201,16 +201,18 @@
   },
   "active": "77348ac1eb06f2f6",
   "lastOpenFiles": [
-    "set theory.md",
     "pdf/Quiz.pdf",
+    "quiz1.md",
     "EXAM final test.md",
+    "Mid_term exam.md",
+    "discrete math symbols.md",
+    "set.PNG",
+    "set theory.md",
     "Set operations and Venn Diagrams.md",
     "symmetric different.md",
     "picture/sym dif.PNG",
-    "set.PNG",
     "essay/essay.md",
     "joblib.md",
-    "Mid_term exam.md",
     "picture/notint.PNG",
     "picture/universe.PNG",
     "picture/set.PNG",
@@ -239,8 +241,6 @@
     "pdf/501044-DiscreteStructures-13_Counting_and_Probability_2.pdf",
     "essay",
     "pdf/501044-DiscreteStructures-11_Cardinality.pdf",
-    "lab4/theorem 4.7.4 infinitude of primes.md",
-    "lab4/definition 4.2.1 (prime number).md",
-    "Untitled 3.md"
+    "lab4/theorem 4.7.4 infinitude of primes.md"
   ]
 }
