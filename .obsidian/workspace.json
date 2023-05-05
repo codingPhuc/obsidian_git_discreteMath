@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d54120819a76eeac",
+        "id": "d1e19a753f20be74",
         "type": "tabs",
         "children": [
           {
-            "id": "956b32e9230c4079",
+            "id": "51c89eb40e78264f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdf/Quiz.pdf"
+                "file": "quiz1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/Quiz.pdf",
+                "file": "quiz1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/Quiz.pdf",
+                "file": "quiz1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/Quiz.pdf"
+                "file": "quiz1.md"
               }
             }
           },
@@ -162,18 +164,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "956b32e9230c4079",
+  "floating": {
+    "id": "d23e28ceac441004",
+    "type": "floating",
+    "children": [
+      {
+        "id": "461423a573566b37",
+        "type": "window",
+        "children": [
+          {
+            "id": "1854af554b0d5aac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "956b32e9230c4079",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "pdf/Quiz.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 824,
+        "maximize": false,
+        "zoom": -1
+      }
+    ]
+  },
+  "active": "51c89eb40e78264f",
   "lastOpenFiles": [
+    "EXAM final test.md",
+    "Logical Equivalences.md",
+    "joblib.md",
     "checking the validity of the argument.md",
+    "pdf/Quiz.pdf",
     "Pasted image 20230402085839.png",
     "Mid_term exam.md",
-    "Logical Equivalences.md",
     "recurrent relation.md",
     "picture/root same.PNG",
     "picture/different root.PNG",
     "picture/the resond why.PNG",
-    "pdf/Quiz.pdf",
-    "EXAM final test.md",
     "pdf/501044-DiscreteStructures-6_7_Sequences_and_Recursion.pdf",
     "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
     "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf",
@@ -193,7 +231,6 @@
     "symmetric different.md",
     "picture/sym dif.PNG",
     "essay/essay.md",
-    "joblib.md",
     "picture/notint.PNG",
     "picture/universe.PNG",
     "picture/set.PNG",
