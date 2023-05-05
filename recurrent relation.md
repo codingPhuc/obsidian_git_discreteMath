@@ -8,4 +8,10 @@ bases on this video :[RECURRENCE RELATIONS - DISCRETE MATHEMATICS - YouTube](htt
 An - A(n-1) = K   , A0 =C  n>=1 
 
 An = A0 + $\sum_{i=1}^{n} k$ 
+example 
+- given A0 = 0 
+- n>=1 
+- An -A(n-1) = 2n  
+An = 0+ $\sum_{i=1}^{n} 2n$= 2$\sum_{i=1}^{n} n$ = 2 (n )(n+1) /2 
+
 
