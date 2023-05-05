@@ -2,4 +2,5 @@ bases on this video :[RECURRENCE RELATIONS - DISCRETE MATHEMATICS - YouTube](htt
 #sumarize 
  number in a sequence depend on the previous number
 - fibonacci sequence and its formal definition An = An-1 + An-2 (A0=0 , A1=1) n >= 2 
-- geometric progression An = 2An-1 
+- geometric progression An = 2An-1(A0 =3)
+
