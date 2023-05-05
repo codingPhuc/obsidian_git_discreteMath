@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essay/essay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea86e83e0bc69ea7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EXAM final test.md",
+                "file": "symmetric different.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EXAM final test.md",
+                "file": "symmetric different.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EXAM final test.md",
+                "file": "symmetric different.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXAM final test.md"
+                "file": "symmetric different.md"
               }
             }
           },
@@ -177,19 +164,56 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea86e83e0bc69ea7",
+  "floating": {
+    "id": "d23e28ceac441004",
+    "type": "floating",
+    "children": [
+      {
+        "id": "dd09c97a5a1bddfa",
+        "type": "window",
+        "children": [
+          {
+            "id": "60f71180ca51bca9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ea86e83e0bc69ea7",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "pdf/Quiz.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 824,
+        "maximize": false,
+        "zoom": 3
+      }
+    ]
+  },
+  "active": "77348ac1eb06f2f6",
   "lastOpenFiles": [
+    "symmetric different.md",
+    "set theory.md",
+    "Set operations and Venn Diagrams.md",
+    "set.PNG",
+    "essay/essay.md",
     "pdf/Quiz.pdf",
+    "EXAM final test.md",
     "joblib.md",
     "Mid_term exam.md",
-    "Set operations and Venn Diagrams.md",
-    "set theory.md",
     "picture/notint.PNG",
     "picture/universe.PNG",
     "picture/set.PNG",
-    "set.PNG",
     "picture",
-    "EXAM final test.md",
     "The logic of compound statemetns.md",
     "Untitled 1.md",
     "Untitled 7.md",
@@ -206,7 +230,6 @@
     "lab2/inference exam test.md",
     "lab2/logic laws examples test.md",
     "lab2/tarski world test.md",
-    "essay/essay.md",
     "lab2/inference test(part 2).md",
     "lab2/book inference test.md",
     "lab3/variants of universal conditional statments.md",
@@ -218,7 +241,6 @@
     "lab4/theorem 4.7.4 infinitude of primes.md",
     "lab4/definition 4.2.1 (prime number).md",
     "Untitled 3.md",
-    "lab4/4.1  recap.md",
-    "lab4"
+    "lab4/4.1  recap.md"
   ]
 }

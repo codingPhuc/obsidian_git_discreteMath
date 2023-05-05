@@ -1,5 +1,5 @@
 bases on video : https://www.youtube.com/watch?v=tyDKR4FG3Yw 
-connection : [[Set operations and Venn Diagrams]]
+connection : [[Set operations and Venn Diagrams]] [[symmetric different]]
 #sumarize  
 A set is a collection of object called elements 
 ![[set.PNG]]
