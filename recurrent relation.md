@@ -48,7 +48,13 @@ $a_n = \alpha*(2^n) +\beta*n(2^n)$
 $a_0 = 1  = \alpha$ 
 $a_1 =3= 2\alpha + 2\beta$
 -> $\alpha = 1 , \beta = \frac{1}{2}$ 
+$a_n = 2^n + \frac{1}{2}n2^n$ 
+#### important part 
+so if you have a root that are different then 
 
+![[different root.PNG]]
+if you have the same root 
+![[root same.PNG]]
 
 
 
