@@ -11,11 +11,9 @@
             "id": "956b32e9230c4079",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "recurrent relation.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/Quiz.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recurrent relation.md",
+                "file": "pdf/Quiz.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recurrent relation.md",
+                "file": "pdf/Quiz.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recurrent relation.md"
+                "file": "pdf/Quiz.pdf"
               }
             }
           },
@@ -166,8 +164,8 @@
   },
   "active": "956b32e9230c4079",
   "lastOpenFiles": [
-    "EXAM final test.md",
     "recurrent relation.md",
+    "EXAM final test.md",
     "pdf/Quiz.pdf",
     "pdf/501044-DiscreteStructures-6_7_Sequences_and_Recursion.pdf",
     "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
