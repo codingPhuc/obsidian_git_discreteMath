@@ -43,7 +43,13 @@ $a_n - 4*a_{n-1} + 4*a_{n-2}=0, where, a_0=1, a_1 =3$
 $r^n - 4*r^{n-1} + 4*r^{n-2}$
 $r^2 - 4*r^{} + 4$ divide by the lowest number $r^{n-2}$
 $(r-2)*(r-2)=0$ -> r=2,2
-$a_n = \alpha*(2^n) +\beta*(2^n)$
+if we have similer root beta will have *n
+$a_n = \alpha*(2^n) +\beta*n(2^n)$
+$a_0 = 1  = \alpha$ 
+$a_1 =3= 2\alpha + 2\beta$
+-> $\alpha = 1 , \beta = \frac{1}{2}$ 
+
+
 
 
 
