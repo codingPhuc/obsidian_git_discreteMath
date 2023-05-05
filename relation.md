@@ -1,4 +1,4 @@
-bases on these video : https://www.youtube.com/watch?v=FI6j5QZNVx0
+bases on these video : https://www.youtube.com/watch?v=FI6j5QZNVx0 https://www.youtube.com/watch?v=K1IUntpKkE8
 #sumarize  
 A relation R on a set X is a subset of X*X 
 if (a,b)$\in$ R , we write xRy
