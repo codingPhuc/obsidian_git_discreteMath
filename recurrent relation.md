@@ -14,6 +14,9 @@ example
 - An -A(n-1) = 2n  
 An = 0+ $\sum_{i=1}^{n} 2n$= 2$\sum_{i=1}^{n} n$ = 2 (n )(n+1) /2 
 
+### sloving  re currence Relation 
+we want an easy equation to find the value of any term 
+$\mathbb{a}_n $ 
 
 
 
