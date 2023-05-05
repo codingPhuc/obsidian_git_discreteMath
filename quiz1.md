@@ -13,7 +13,14 @@ $a_k - 11a_{k-1} + 30a_{k-2} = 0$
 $r^k - 11r^{k-1} + 30r^{k-2}$
 $r^k - 11r^{k-1} + 30r^{k-2}=0$ divide by $r^{k-2}$
 $r^2 - 11r + 30=0$ 
-(r -6)(r-5) -> $\alpha = 6  \beta =5$
+(r -6)(r-5) -> $\alpha* 6^n  + \beta*5^n$ 
+$a_0 = 7 = \alpha  + \beta$
+$a_1 = 5 = 6\alpha  + 5\beta$
+->$\alpha = -30 , \beta = 37$
+
+
+
+
 
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quiz1.md",
+                "file": "recurrent relation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quiz1.md",
+                "file": "recurrent relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quiz1.md",
+                "file": "recurrent relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quiz1.md"
+                "file": "recurrent relation.md"
               }
             }
           },
@@ -202,15 +202,15 @@
   "active": "51c89eb40e78264f",
   "lastOpenFiles": [
     "EXAM final test.md",
+    "quiz1.md",
+    "pdf/Quiz.pdf",
+    "recurrent relation.md",
     "discrete math symbols.md",
     "checking the validity of the argument.md",
     "Mid_term exam.md",
     "logical connection.md",
-    "recurrent relation.md",
-    "quiz1.md",
     "Logical Equivalences.md",
     "joblib.md",
-    "pdf/Quiz.pdf",
     "Pasted image 20230402085839.png",
     "picture/root same.PNG",
     "picture/different root.PNG",
