@@ -29,7 +29,13 @@ $a_n = C + \sum_{i=1}^{n}k$
 ### hard problem 
 $a_n - a_{n-1} - 6*a_{n-2} =0$ where $a_0 =1 , a_1=8$
 $r^n - r^{n-1} - 6^{n-2}=0$
-$r^2 - r^{} - 6^{}=0$ divide it by the $r^{r-2}$ 
+1. $r^2 - r^{} - 6^{}=0$ divide it by the $r^{r-2}$ 
+For any base a and any integer exponents n and m, aⁿ⋅aᵐ=aⁿ⁺ᵐ. For any nonzero base, aⁿ/aᵐ=aⁿ⁻ᵐ. These are worked examples for using these properties with integer exponents.
+2. (r-3)(r-2) =0 
+	
+
+
+
 
 
 
