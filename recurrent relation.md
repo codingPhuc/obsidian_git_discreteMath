@@ -16,8 +16,11 @@ An = 0+ $\sum_{i=1}^{n} 2n$= 2$\sum_{i=1}^{n} n$ = 2 (n )(n+1) /2
 
 ### sloving  re currence Relation 
 we want an easy equation to find the value of any term 
-$\mathbb{a}_n $ 
-
-
-
+[sloving the formula mean finding the formula $a_n =?$ ]
+$a_n = 3a_{n-1}$
+$a_0 = 7$  
+-> $a_n = 7 *3^n$ 
+another example 
+$a_n - a_{n-1}= k /a_0 =c$ 
+$a_n = C + \sum_{i=1}^{n}k$ 
 
