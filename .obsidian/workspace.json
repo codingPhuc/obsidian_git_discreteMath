@@ -11,11 +11,9 @@
             "id": "51c89eb40e78264f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "quiz1.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/Quiz.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quiz1.md",
+                "file": "pdf/Quiz.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quiz1.md",
+                "file": "pdf/Quiz.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quiz1.md"
+                "file": "pdf/Quiz.pdf"
               }
             }
           },
@@ -202,10 +200,10 @@
   "active": "51c89eb40e78264f",
   "lastOpenFiles": [
     "pdf/review.pdf",
+    "pdf/Quiz.pdf",
+    "quiz1.md",
     "EXAM final test.md",
     "recurrent relation.md",
-    "quiz1.md",
-    "pdf/Quiz.pdf",
     "discrete math symbols.md",
     "checking the validity of the argument.md",
     "Mid_term exam.md",
@@ -224,7 +222,6 @@
     "pdf/501044-DiscreteStructures-14_Graphs_and_Trees_1.pdf",
     "pdf/501044-DiscreteStructures-13_Counting_and_Probability_2.pdf",
     "pdf/501044-DiscreteStructures-12_Counting_and_Probability_1.pdf",
-    "pdf/501044-DiscreteStructures-11_Cardinality.pdf",
     "README.md",
     "set.PNG",
     "set theory.md",
