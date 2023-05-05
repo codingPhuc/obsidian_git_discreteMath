@@ -27,6 +27,7 @@ another example
 $a_n - a_{n-1}= k /a_0 =c$ 
 $a_n = C + \sum_{i=1}^{n}k$ 
 ### hard problem 
+#### ex 1
 $a_n - a_{n-1} - 6*a_{n-2} =0$ where $a_0 =1 , a_1=8$
 $r^n - r^{n-1} - 6^{n-2}=0$
 1. $r^2 - r^{} - 6^{}=0$ divide it by the $r^{r-2}$ 
@@ -35,7 +36,11 @@ For any base a and any integer exponents n and m, aⁿ⋅aᵐ=aⁿ⁺ᵐ. For an
 3. $a_n = \alpha*(3^n) + \beta* (-2)^n$
 $a_0 = 1 = \alpha*(3^0) + \beta* (-2)^0 = \alpha + \beta$ 
 $a_1 = 8 = \alpha*(3^1) + \beta* (-2)^1 = 3*\alpha + 2*\beta$ 
-now slove for $\alpha , \beta , \alpha = 2 , \beta = 3$
+now slove for $\alpha , \beta , \alpha = 2 , \beta = -1$
+we get => $a_n  = 2*(3^n) -1(-2)^n$ 
+#### ex2 
+$a_n - 4*a_{n-1} + 4*a_{n-2}=0, where, a_0=1, a_1 =3$
+$
 
 
 
