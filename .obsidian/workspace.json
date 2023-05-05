@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "symmetric different.md",
+                "file": "Set operations and Venn Diagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "symmetric different.md",
+                "file": "Set operations and Venn Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "symmetric different.md",
+                "file": "Set operations and Venn Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "symmetric different.md"
+                "file": "Set operations and Venn Diagrams.md"
               }
             }
           },
@@ -201,14 +201,14 @@
   },
   "active": "77348ac1eb06f2f6",
   "lastOpenFiles": [
-    "picture/sym dif.PNG",
-    "symmetric different.md",
     "set theory.md",
-    "Set operations and Venn Diagrams.md",
-    "set.PNG",
-    "essay/essay.md",
     "pdf/Quiz.pdf",
     "EXAM final test.md",
+    "Set operations and Venn Diagrams.md",
+    "symmetric different.md",
+    "picture/sym dif.PNG",
+    "set.PNG",
+    "essay/essay.md",
     "joblib.md",
     "Mid_term exam.md",
     "picture/notint.PNG",
