@@ -4,3 +4,8 @@ bases on this video :[RECURRENCE RELATIONS - DISCRETE MATHEMATICS - YouTube](htt
 - fibonacci sequence and its formal definition An = An-1 + An-2 (A0=0 , A1=1) n >= 2 
 - geometric progression An = 2An-1(A0 =3)
 
+## formula
+An - A(n-1) = K   , A0 =C  n>=1 
+
+An = A0 + $\sum_{i=1}^{n} k$ 
+
