@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d57dc454d74674fa",
+        "id": "d54120819a76eeac",
         "type": "tabs",
         "children": [
           {
-            "id": "77348ac1eb06f2f6",
+            "id": "956b32e9230c4079",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "quiz1.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/501044-DiscreteStructures-14_Graphs_and_Trees_1.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quiz1.md",
+                "file": "pdf/501044-DiscreteStructures-14_Graphs_and_Trees_1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quiz1.md",
+                "file": "pdf/501044-DiscreteStructures-14_Graphs_and_Trees_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quiz1.md"
+                "file": "pdf/501044-DiscreteStructures-14_Graphs_and_Trees_1.pdf"
               }
             }
           },
@@ -199,12 +197,21 @@
       }
     ]
   },
-  "active": "77348ac1eb06f2f6",
+  "active": "956b32e9230c4079",
   "lastOpenFiles": [
-    "pdf/Quiz.pdf",
+    "pdf/501044-DiscreteStructures-13_Counting_and_Probability_2.pdf",
+    "pdf/501044-DiscreteStructures-12_Counting_and_Probability_1.pdf",
+    "pdf/501044-DiscreteStructures-11_Cardinality.pdf",
+    "pdf/501044-DiscreteStructures-10_Functions.pdf",
+    "pdf/501044-DiscreteStructures-9_Relations2.pdf",
     "quiz1.md",
+    "pdf/Quiz.pdf",
+    "checking the validity of the argument.md",
     "EXAM final test.md",
+    "logical connection.md",
     "Mid_term exam.md",
+    "Pasted image 20230402085839.png",
+    "README.md",
     "discrete math symbols.md",
     "set.PNG",
     "set theory.md",
@@ -222,25 +229,17 @@
     "Untitled 7.md",
     "Untitled 2.md",
     "Untitled.md",
-    "README.md",
-    "Pasted image 20230402085839.png",
     "Logical Equivalences.md",
     "pdf/501044-DiscreteStructures-4_5_NumberTheory.pdf",
     "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
     "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf",
     "pdf/501044-DiscreteStructures-1_Propositional2BLogic.pdf",
-    "pdf/501044-DiscreteStructures-0-IntroductiontoDiscreteStructures.pdf",
     "lab2/inference exam test.md",
     "lab2/logic laws examples test.md",
     "lab2/tarski world test.md",
     "lab2/inference test(part 2).md",
     "lab2/book inference test.md",
     "lab3/variants of universal conditional statments.md",
-    "lab2/inference test (part 1 ).md",
-    "Untitled 6.md",
-    "pdf/501044-DiscreteStructures-13_Counting_and_Probability_2.pdf",
-    "essay",
-    "pdf/501044-DiscreteStructures-11_Cardinality.pdf",
-    "lab4/theorem 4.7.4 infinitude of primes.md"
+    "lab2/inference test (part 1 ).md"
   ]
 }
