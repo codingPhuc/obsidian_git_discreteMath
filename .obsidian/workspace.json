@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set operations and Venn Diagrams.md",
+                "file": "EXAM final test.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set operations and Venn Diagrams.md",
+                "file": "EXAM final test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set operations and Venn Diagrams.md",
+                "file": "EXAM final test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set operations and Venn Diagrams.md"
+                "file": "EXAM final test.md"
               }
             }
           },
@@ -179,8 +179,11 @@
   },
   "active": "ea86e83e0bc69ea7",
   "lastOpenFiles": [
-    "set theory.md",
+    "pdf/Quiz.pdf",
+    "joblib.md",
+    "Mid_term exam.md",
     "Set operations and Venn Diagrams.md",
+    "set theory.md",
     "picture/notint.PNG",
     "picture/universe.PNG",
     "picture/set.PNG",
@@ -194,7 +197,6 @@
     "Untitled.md",
     "README.md",
     "Pasted image 20230402085839.png",
-    "Mid_term exam.md",
     "Logical Equivalences.md",
     "pdf/501044-DiscreteStructures-4_5_NumberTheory.pdf",
     "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
@@ -204,7 +206,6 @@
     "lab2/inference exam test.md",
     "lab2/logic laws examples test.md",
     "lab2/tarski world test.md",
-    "joblib.md",
     "essay/essay.md",
     "lab2/inference test(part 2).md",
     "lab2/book inference test.md",
