@@ -40,7 +40,16 @@ now slove for $\alpha , \beta , \alpha = 2 , \beta = -1$
 we get => $a_n  = 2*(3^n) -1(-2)^n$ 
 #### ex2 
 $a_n - 4*a_{n-1} + 4*a_{n-2}=0, where, a_0=1, a_1 =3$
-$
+$r^n - 4*r^{n-1} + 4*r^{n-2}$
+$r^2 - 4*r^{} + 4$ divide by the lowest number $r^{n-2}$
+$(r-2)*(r-2)=0$ -> r=2,2
+$a_n = \alpha*(2^n) +\beta*(2^n)$
+
+
+
+
+
+
 
 
 
