@@ -16,11 +16,17 @@ A relation R on set A is called reflexive if (a,a)$\in$ R for every element a $\
 Example : 
 - let A = {1,2,3,4}
 - R1 = {(1,1),(2,2),(3,3),(4,4)} 
-- relation R1 is reflexice because it containt all ordered pairs of the form )
+- relation R1 is reflexice because it containt all ordered pairs of the form (a,a) for every element a$\in$ A i.e , R1 has (1,1) (2,2) (3,3) (4,4)
+### irreflexive relation 
+A relation R on set A is called irreflexive if $\forall$a $\in$ A , (a,a) $\notin$ R .
+example : 
+- A = {1,2,3,4}
+- R3  = {(1,2),(2,1),(3,3) ,(4,4)} is not irreflexive because (3,3) and (4,4) is there in R3 
 
 ## symmetric 
 $\forall$x $\forall$y xRy -> yRx 
 ![[sym.PNG]]
+A relation R on a set A is called symmetric if  (b,a) $\in$ R hold then when 
 ## transitive 
 $\forall$x $\forall$y xRy $\land$ xyRz -> xRz 
 ![[d.PNG]]
