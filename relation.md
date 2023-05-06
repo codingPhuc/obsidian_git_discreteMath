@@ -12,7 +12,12 @@ xGy : x is greater than y . (x,y)$\in$ Z
 ## reflexive 
 $\forall$x  xRy 
 ![[ref.PNG]]
-A relation R on set A is called reflexive if (a,a)$\in$ R for every element a $\in$ A . In other words , $\forall$ a((a,a)$\in$)
+A relation R on set A is called reflexive if (a,a)$\in$ R for every element a $\in$ A . In other words , $\forall$ a((a,a)$\in$R)
+Example : 
+- let A = {1,2,3,4}
+- R1 = {(1,1),(2,2),(3,3),(4,4)} 
+- relation R1 is reflexice because it containt all ordered pairs of the form )
+
 ## symmetric 
 $\forall$x $\forall$y xRy -> yRx 
 ![[sym.PNG]]
