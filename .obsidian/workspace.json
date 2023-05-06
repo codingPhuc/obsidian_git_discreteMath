@@ -11,11 +11,9 @@
             "id": "6128900e6d8c8427",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "type of relation slove problem.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/review.pdf"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "type of relation slove problem.md",
+                "file": "pdf/review.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "type of relation slove problem.md",
+                "file": "pdf/review.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "type of relation slove problem.md"
+                "file": "pdf/review.pdf"
               }
             }
           },
@@ -176,11 +174,15 @@
   },
   "active": "6128900e6d8c8427",
   "lastOpenFiles": [
-    "relation.md",
-    "type of relation slove problem.md",
-    "picture/relation.PNG",
-    "picture/the resond why.PNG",
+    "pdf/Quiz.pdf",
+    "pdf/review.pdf",
     "picture/universe.PNG",
+    "picture/the resond why.PNG",
+    "picture/sym dif.PNG",
+    "quiz1.md",
+    "type of relation slove problem.md",
+    "relation.md",
+    "picture/relation.PNG",
     "picture/a.PNG",
     "recurrent relation.md",
     "Set operations and Venn Diagrams.md",
@@ -188,10 +190,7 @@
     "symmetric different.md",
     "The logic of compound statemetns.md",
     "EXAM final test.md",
-    "pdf/Quiz.pdf",
-    "pdf/review.pdf",
     "Logical Equivalences.md",
-    "quiz1.md",
     "Mid_term exam.md",
     "Pasted image 20230402085839.png",
     "essay/essay.md",
@@ -203,7 +202,6 @@
     "logical connection.md",
     "joblib.md",
     "picture/root same.PNG",
-    "picture/different root.PNG",
     "pdf/501044-DiscreteStructures-6_7_Sequences_and_Recursion.pdf",
     "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
     "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf",
@@ -220,7 +218,6 @@
     "lab2/inference exam test.md",
     "lab2/logic laws examples test.md",
     "lab2/tarski world test.md",
-    "lab2/inference test(part 2).md",
-    "lab2/book inference test.md"
+    "lab2/inference test(part 2).md"
   ]
 }
