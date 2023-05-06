@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d1e19a753f20be74",
+        "id": "cda6fe0d7fe4d470",
         "type": "tabs",
         "children": [
           {
-            "id": "51c89eb40e78264f",
+            "id": "433da25013e4f2b2",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdf/review.pdf"
+                "file": "pdf/Quiz.pdf"
               }
             }
           }
@@ -70,6 +70,16 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "51c89eb40e78264f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdf/review.pdf"
+              }
+            }
           }
         ]
       }
@@ -91,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/review.pdf",
+                "file": "pdf/Quiz.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/review.pdf",
+                "file": "pdf/Quiz.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/review.pdf"
+                "file": "pdf/Quiz.pdf"
               }
             }
           },
@@ -162,16 +172,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51c89eb40e78264f",
+  "active": "433da25013e4f2b2",
   "lastOpenFiles": [
+    "pdf/review.pdf",
     "pdf/Quiz.pdf",
+    "picture/the resond why.PNG",
     "relation.md",
     "EXAM final test.md",
+    "Logical Equivalences.md",
     "quiz1.md",
     "Mid_term exam.md",
-    "Logical Equivalences.md",
     "Pasted image 20230402085839.png",
-    "pdf/review.pdf",
     "essay/essay.md",
     "picture/d.PNG",
     "picture/sym.PNG",
@@ -183,7 +194,6 @@
     "joblib.md",
     "picture/root same.PNG",
     "picture/different root.PNG",
-    "picture/the resond why.PNG",
     "pdf/501044-DiscreteStructures-6_7_Sequences_and_Recursion.pdf",
     "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
     "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf",
