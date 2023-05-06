@@ -38,7 +38,7 @@ Example : relation R7 = {(1,1)(2,1)} on set A is antisymmetric because (2,1) is 
 
 
 ## transitive 
-$\forall$x $\forall$y xRy $\land$ xyRz -> xRz 
+$\forall$x $\forall$y xRy $\land$ yRz -> xRz 
 
 ![[d.PNG]]
 A relation R on set A is called transitive if $\forall a $\forall b \forall c \forall a (((a,b)\in R\land (b,c)\in R)->(a,c)\in R)$
