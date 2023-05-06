@@ -26,7 +26,10 @@ example :
 ## symmetric 
 $\forall$x $\forall$y xRy -> yRx 
 ![[sym.PNG]]
-A relation R on a set A is called symmetric if  (b,a) $\in$ R hold then when 
+A relation R on a set A is called symmetric if  (b,a) $\in$ R hold then when (a,b) $\in$ R for all a,b $\in$ A 
+in other words , relation R on a set A is symmetric if  $\forall$a$\forall$b((a,b)$\in$ R -> (b,a)$\in$ R)
+Example : 
+- ralati
 ## transitive 
 $\forall$x $\forall$y xRy $\land$ xyRz -> xRz 
 ![[d.PNG]]
