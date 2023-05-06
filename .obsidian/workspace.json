@@ -21,11 +21,9 @@
             "id": "3a001f09281dc2fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "checking the validity of the argument.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/review.pdf"
               }
             }
           }
@@ -114,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "checking the validity of the argument.md",
+                "file": "pdf/review.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "checking the validity of the argument.md",
+                "file": "pdf/review.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "checking the validity of the argument.md"
+                "file": "pdf/review.pdf"
               }
             }
           },
@@ -187,6 +185,9 @@
   },
   "active": "3a001f09281dc2fd",
   "lastOpenFiles": [
+    "pdf/Quiz.pdf",
+    "pdf/review.pdf",
+    "checking the validity of the argument.md",
     "picture/the resond why.PNG",
     "picture/universe.PNG",
     "relation.md",
@@ -198,8 +199,6 @@
     "recurrent relation.md",
     "Set operations and Venn Diagrams.md",
     "Pasted image 20230402085839.png",
-    "pdf/Quiz.pdf",
-    "pdf/review.pdf",
     "picture/sym dif.PNG",
     "quiz1.md",
     "type of relation slove problem.md",
@@ -212,7 +211,6 @@
     "picture/sym.PNG",
     "picture/ref.PNG",
     "discrete math symbols.md",
-    "checking the validity of the argument.md",
     "logical connection.md",
     "joblib.md",
     "picture/root same.PNG",
