@@ -33,7 +33,10 @@ Example :
 - like (1,2) ( 2,1) is in R5 
 - there is no need to check for (1,1) ,( 2,2 )
 ### anti symmetric realtion 
-A relation R on a set A is called antisysmmetric if $\forall b \forall b ((a,b) \in R \land (b,a) \in R )->
+A relation R on a set A is called antisysmmetric if $\forall a \forall b ((a,b) \in R \land (b,a) \in R )->(a=b)$
+Example : relation R7 = {(1,1)(2,1)} on set A is antisymmetric because (2,1) is in R7 but (1,2) is not in R7 
+
+
 ## transitive 
 $\forall$x $\forall$y xRy $\land$ xyRz -> xRz 
 ![[d.PNG]]
