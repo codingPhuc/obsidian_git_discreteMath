@@ -42,11 +42,15 @@ $\forall$x $\forall$y xRy $\land$ xyRz -> xRz
 
 ![[d.PNG]]
 A relation R on set A is called transitive if $\forall a $\forall b \forall c \forall a (((a,b)\in R\land (b,c)\in R)->(a,c)\in R)$
-
-### example 
-given x-y $\neq$ 0 
-refl ? xRx-> x-x$\neq$ 0 5 -5 =0 
-sym ? 
+example : 
+- A = {1,2,3,4}
+- R8={(2,1),(3,1) , (3,2),(4,4)}is transitive because (3,2) , (2,1) and ( 3,1) are there in R8
+- R9 ={(2,1),(1,3)} is not transitive as ( 2,1) and (1,3) are there in R9 but there is no (2,3) in realtion R9 
+## Asymmtric Relation : 
+A raltion R on a set A is called asymmetric if $\forall a \forall b ((a,b)\in R -> (b,a)\notin R)$
+example : 
+- A {1,2,3,4}
+- R10 = {(1,1),(1,2),(1,3)} is not asymmetric realtion because of (1m)
 
 ## definition 
 let A and B be two sets. A binary relation R from A to B is a subset of AXB OR R $\subset$ AXB 
