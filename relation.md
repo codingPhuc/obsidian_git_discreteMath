@@ -12,6 +12,7 @@ xGy : x is greater than y . (x,y)$\in$ Z
 ## reflexive 
 $\forall$x  xRy 
 ![[ref.PNG]]
+A relation R on set A is called reflexive if (a,a)$\in$ R for every element a $\in$ A . In other words , $\forall$ a((a,a)$\in$)
 ## symmetric 
 $\forall$x $\forall$y xRy -> yRx 
 ![[sym.PNG]]
@@ -35,4 +36,9 @@ Let say R is the relation where (a,b )$\in$ R if and only if a=b then R = {(1,1)
 A relation on a set A is a relation from A to A. 
 example : Let R  ={(a,b)|a divides b}
 A = {1,2,3,4,5,6}
-R = {(1,1), {1,2},(1,3) ... (4,4)}
+R = {(1,1), {1,2},(1,3) ... (4,4), (5,5) ,(6,6 )}
+![[relation.PNG]]
+
+
+
+
