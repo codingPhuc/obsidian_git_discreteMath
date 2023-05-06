@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "relation.md",
+                "file": "type of relation slove problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "relation.md",
+                "file": "type of relation slove problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "relation.md",
+                "file": "type of relation slove problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "relation.md"
+                "file": "type of relation slove problem.md"
               }
             }
           },
@@ -176,10 +176,11 @@
   },
   "active": "6128900e6d8c8427",
   "lastOpenFiles": [
+    "relation.md",
+    "type of relation slove problem.md",
     "picture/relation.PNG",
     "picture/the resond why.PNG",
     "picture/universe.PNG",
-    "relation.md",
     "picture/a.PNG",
     "recurrent relation.md",
     "Set operations and Venn Diagrams.md",
@@ -212,7 +213,6 @@
     "pdf/501044-DiscreteStructures-13_Counting_and_Probability_2.pdf",
     "pdf/501044-DiscreteStructures-12_Counting_and_Probability_1.pdf",
     "README.md",
-    "set.PNG",
     "Untitled 1.md",
     "Untitled 7.md",
     "Untitled 2.md",

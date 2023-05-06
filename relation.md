@@ -1,5 +1,5 @@
 bases on these video : https://www.youtube.com/watch?v=FI6j5QZNVx0 https://www.youtube.com/watch?v=4Caxyh0zt_o
-related : [[set theory]] 
+related : [[set theory]] [[type of relation slove problem]]
 #sumarize  
 A relation R on a set X is a subset of A 
 if (a,b)$\in$ R , we write xRy
@@ -50,8 +50,16 @@ example :
 A raltion R on a set A is called asymmetric if $\forall a \forall b ((a,b)\in R -> (b,a)\notin R)$
 example : 
 - A {1,2,3,4}
-- R10 = {(1,1),(1,2),(1,3)} is not asymmetric realtion because of (1m)
+- R10 = {(1,1),(1,2),(1,3)} is not asymmetric realtion because of (1,1)
+- R11 = {(1,2),(1,3),(2,3)} is an asymmetric relation 
 
+## summary 
+1.  reflexive $\forall$ a((a,a)$\in$R)
+2. irreflexive  $\forall$ a((a,a)$\notin$R)
+3. Symmetric $\forall$a$\forall$b((a,b)$\in$ R -> (b,a)$\in$ R)
+4. Antisysmetric $\forall a \forall b ((a,b) \in R \land (b,a) \in R )->(a=b)$
+5. Asysmmetric $\forall a \forall b ((a,b)\in R -> (b,a)\notin R)$
+6. Transitive $\forall b \forall c \forall a (((a,b)\in R\land (b,c)\in R)->(a,c)\in R)$
 ## definition 
 let A and B be two sets. A binary relation R from A to B is a subset of AXB OR R $\subset$ AXB 
 AXB  = {(a,b)| a $\in$ A and b$\in$ B}
