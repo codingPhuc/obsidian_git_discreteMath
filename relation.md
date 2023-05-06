@@ -29,4 +29,10 @@ AXB  = {(a,b)| a $\in$ A and b$\in$ B}
 usually we use the notation aRb to denote (a,b)$\in$ R 
 ![[a.PNG]]
 A = {1,2,3} and B ={0,1,2,4}
-AXB = {(1,0), (1,1), (1,2),(1,4), ()}}
+AXB = {(1,0), (1,1), (1,2),(1,4), (2,0)...}}
+Let say R is the relation where (a,b )$\in$ R if and only if a=b then R = {(1,1),(2,2)} and R $\subset$ AXB 
+### relation from a set to itself 
+A relation on a set A is a relation from A to A. 
+example : Let R  ={(a,b)|a divides b}
+A = {1,2,3,4,5,6}
+R = {(1,1), {1,2},(1,3) ... (4,4)}
