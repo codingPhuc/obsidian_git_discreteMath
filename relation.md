@@ -29,7 +29,11 @@ $\forall$x $\forall$y xRy -> yRx
 A relation R on a set A is called symmetric if  (b,a) $\in$ R hold then when (a,b) $\in$ R for all a,b $\in$ A 
 in other words , relation R on a set A is symmetric if  $\forall$a$\forall$b((a,b)$\in$ R -> (b,a)$\in$ R)
 Example : 
-- ralati
+- relation R5 = {(1,1) , (1,2 ), (2,1) , ( 2,2)} is symmetric because for every (a,b )$\in$ R5  ( b,a )$\in$ R5 
+- like (1,2) ( 2,1) is in R5 
+- there is no need to check for (1,1) ,( 2,2 )
+### anti symmetric realtion 
+A relation R on a set A is called antisysmmetric if $\forall b \forall b ((a,b) \in R \land (b,a) \in R )->
 ## transitive 
 $\forall$x $\forall$y xRy $\land$ xyRz -> xRz 
 ![[d.PNG]]
