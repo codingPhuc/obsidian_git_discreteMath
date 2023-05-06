@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cda6fe0d7fe4d470",
+        "id": "97a24da7c682ea8d",
         "type": "tabs",
         "children": [
           {
-            "id": "433da25013e4f2b2",
+            "id": "6128900e6d8c8427",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdf/review.pdf"
+                "file": "relation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "79de2f4c17e7803d",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/review.pdf",
+                "file": "relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/review.pdf",
+                "file": "relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/review.pdf"
+                "file": "relation.md"
               }
             }
           },
@@ -173,13 +174,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0082c20716b98789",
+  "active": "6128900e6d8c8427",
   "lastOpenFiles": [
+    "recurrent relation.md",
+    "relation.md",
+    "Set operations and Venn Diagrams.md",
+    "set theory.md",
+    "symmetric different.md",
+    "The logic of compound statemetns.md",
+    "EXAM final test.md",
     "pdf/Quiz.pdf",
     "pdf/review.pdf",
     "picture/the resond why.PNG",
-    "relation.md",
-    "EXAM final test.md",
     "Logical Equivalences.md",
     "quiz1.md",
     "Mid_term exam.md",
@@ -189,7 +195,6 @@
     "picture/sym.PNG",
     "picture/ref.PNG",
     "discrete math symbols.md",
-    "recurrent relation.md",
     "checking the validity of the argument.md",
     "logical connection.md",
     "joblib.md",
@@ -205,12 +210,8 @@
     "pdf/501044-DiscreteStructures-12_Counting_and_Probability_1.pdf",
     "README.md",
     "set.PNG",
-    "set theory.md",
-    "Set operations and Venn Diagrams.md",
-    "symmetric different.md",
     "picture/sym dif.PNG",
     "picture/notint.PNG",
-    "The logic of compound statemetns.md",
     "Untitled 1.md",
     "Untitled 7.md",
     "Untitled 2.md",
