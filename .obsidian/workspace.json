@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdf/Quiz.pdf"
+                "file": "pdf/review.pdf"
               }
             }
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/Quiz.pdf",
+                "file": "pdf/review.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/Quiz.pdf",
+                "file": "pdf/review.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/Quiz.pdf"
+                "file": "pdf/review.pdf"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "433da25013e4f2b2",
   "lastOpenFiles": [
-    "pdf/review.pdf",
     "pdf/Quiz.pdf",
+    "pdf/review.pdf",
     "picture/the resond why.PNG",
     "relation.md",
     "EXAM final test.md",
