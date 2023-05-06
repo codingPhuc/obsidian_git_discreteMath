@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdf/Quiz.pdf"
+                "file": "pdf/review.pdf"
               }
             }
           },
@@ -31,16 +31,13 @@
             "id": "4831ce2966fbbf60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "relation.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/Quiz.pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "relation.md",
+                "file": "pdf/review.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "relation.md",
+                "file": "pdf/review.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "relation.md"
+                "file": "pdf/review.pdf"
               }
             }
           },
@@ -195,17 +192,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4831ce2966fbbf60",
+  "active": "6128900e6d8c8427",
   "lastOpenFiles": [
-    "type of relation slove problem.md",
+    "pdf/Quiz.pdf",
+    "picture/the resond why.PNG",
+    "quiz1.md",
+    "Mid_term exam.md",
     "relation.md",
+    "type of relation slove problem.md",
     "recurrent relation.md",
     "README.md",
-    "Mid_term exam.md",
-    "pdf/Quiz.pdf",
     "pdf/review.pdf",
     "checking the validity of the argument.md",
-    "picture/the resond why.PNG",
     "picture/universe.PNG",
     "EXAM final test.md",
     "symmetric different.md",
@@ -213,7 +211,6 @@
     "Set operations and Venn Diagrams.md",
     "Pasted image 20230402085839.png",
     "picture/sym dif.PNG",
-    "quiz1.md",
     "picture/relation.PNG",
     "picture/a.PNG",
     "set theory.md",
