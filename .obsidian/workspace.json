@@ -26,8 +26,21 @@
                 "file": "pdf/review.pdf"
               }
             }
+          },
+          {
+            "id": "4831ce2966fbbf60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "79de2f4c17e7803d",
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/Quiz.pdf",
+                "file": "relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/Quiz.pdf",
+                "file": "relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/Quiz.pdf"
+                "file": "relation.md"
               }
             }
           },
@@ -183,25 +195,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6128900e6d8c8427",
+  "active": "4831ce2966fbbf60",
   "lastOpenFiles": [
-    "pdf/review.pdf",
+    "type of relation slove problem.md",
+    "relation.md",
+    "recurrent relation.md",
+    "README.md",
+    "Mid_term exam.md",
     "pdf/Quiz.pdf",
+    "pdf/review.pdf",
     "checking the validity of the argument.md",
     "picture/the resond why.PNG",
     "picture/universe.PNG",
-    "relation.md",
     "EXAM final test.md",
     "symmetric different.md",
     "Logical Equivalences.md",
-    "Mid_term exam.md",
-    "README.md",
-    "recurrent relation.md",
     "Set operations and Venn Diagrams.md",
     "Pasted image 20230402085839.png",
     "picture/sym dif.PNG",
     "quiz1.md",
-    "type of relation slove problem.md",
     "picture/relation.PNG",
     "picture/a.PNG",
     "set theory.md",
