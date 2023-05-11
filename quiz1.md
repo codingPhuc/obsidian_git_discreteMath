@@ -25,7 +25,9 @@ $\forall x , y \in (0,+\infty ) <=> 3x^2 - 10xy + 3x^2$
 - reflexive 
 	- since $3x^2 - 10x^2 + 3x^2 = -4x^2 \leq 0(true)$ R is reflexive 
 - sysmetric 
-	- since 
+	- since $\forall x,y \in (0,+\infty): 3x^2 -10xy + 3y^2 \leq 0 <=> 3y^2 -10xy +3x^2 \leq 0$ R is sysmtric 
+- anti sysmetric 
+	- since $1R2 \leq , 2R1 \ and \ 1\neq 2$ => 
 
 
 
