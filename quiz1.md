@@ -21,7 +21,11 @@ $a_1 = 5 = 6\alpha  + 5\beta$
 ->$\alpha = -30 , \beta = 37$
 $a_{n}= -30*6^n  + 37*5^n$
 ### exercise 3
-$\forall x , y \in (0,+\infty ) \equiv $
+$\forall x , y \in (0,+\infty ) <=> 3x^2 - 10xy + 3x^2$
+- reflexive 
+	- since $3x^2 - 10x^2 + 3x^2 = -4x^2 \leq 0(true)$ R is reflexive 
+- sysmetric 
+	- since 
 
 
 
