@@ -27,8 +27,11 @@ $\forall x , y \in (0,+\infty ) <=> 3x^2 - 10xy + 3x^2$
 - sysmetric 
 	- since $\forall x,y \in (0,+\infty): 3x^2 -10xy + 3y^2 \leq 0 <=> 3y^2 -10xy +3x^2 \leq 0$ R is sysmtric 
 - anti sysmetric 
-	- since $1R2 \leq , 2R1 \ and \ 1\neq 2$ => 
-
+	- since $1R2 \leq 0 , 2R1\leq 0  \ and \ 1\neq 2$ => R is not anti sysmetric 
+- transitive 
+	- since $1R0 \leq 0\ and\ 0R-1 \leq 0 \ but \ 1R-1 \geq 0$  -> R is not transitive 
+-  equivalent 
+	- since R is not transitive therefore R is not an equivalent relation on partical order 
 
 
 
