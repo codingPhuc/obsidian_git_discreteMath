@@ -19,7 +19,7 @@ $r^2 - 11r + 30=0$
 $a_0 = 7 = \alpha  + \beta$
 $a_1 = 5 = 6\alpha  + 5\beta$
 ->$\alpha = -30 , \beta = 37$
-
+$a_{n}^n; = $
 ### exercise 3
 
 
