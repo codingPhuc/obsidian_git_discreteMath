@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recurrent relation.md",
+                "file": "quiz1.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recurrent relation.md",
+                "file": "quiz1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recurrent relation.md",
+                "file": "quiz1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recurrent relation.md"
+                "file": "quiz1.md"
               }
             }
           },
@@ -211,14 +211,14 @@
   },
   "active": "6128900e6d8c8427",
   "lastOpenFiles": [
+    "README.md",
+    "pdf/review.pdf",
+    "recurrent relation.md",
     "EXAM final test.md",
     "quiz1.md",
-    "recurrent relation.md",
     "relation.md",
-    "pdf/review.pdf",
     "Set operations and Venn Diagrams.md",
     "set theory.md",
-    "README.md",
     "pdf/Quiz.pdf",
     "picture/root same.PNG",
     "Pasted image 20230402085839.png",
