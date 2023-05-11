@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quiz1.md",
+                "file": "lab4/theorem 4.7.4 infinitude of primes.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "79de2f4c17e7803d",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quiz1.md",
+                "file": "lab4/theorem 4.7.4 infinitude of primes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quiz1.md",
+                "file": "lab4/theorem 4.7.4 infinitude of primes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quiz1.md"
+                "file": "lab4/theorem 4.7.4 infinitude of primes.md"
               }
             }
           },
@@ -211,15 +212,16 @@
   },
   "active": "6128900e6d8c8427",
   "lastOpenFiles": [
+    "lab3/variants of universal conditional statments.md",
+    "quiz1.md",
+    "pdf/Quiz.pdf",
     "README.md",
     "pdf/review.pdf",
     "recurrent relation.md",
     "EXAM final test.md",
-    "quiz1.md",
     "relation.md",
     "Set operations and Venn Diagrams.md",
     "set theory.md",
-    "pdf/Quiz.pdf",
     "picture/root same.PNG",
     "Pasted image 20230402085839.png",
     "picture/ref.PNG",
