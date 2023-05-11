@@ -21,9 +21,11 @@
             "id": "e6c0595b27112ae3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "relation.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/review.pdf",
+                "file": "relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/review.pdf",
+                "file": "relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/review.pdf"
+                "file": "relation.md"
               }
             }
           },
@@ -205,25 +207,26 @@
   },
   "active": "e6c0595b27112ae3",
   "lastOpenFiles": [
-    "checking the validity of the argument.md",
-    "picture/sym.PNG",
-    "quiz1.md",
     "EXAM final test.md",
+    "joblib.md",
+    "Logical Equivalences.md",
+    "quiz1.md",
+    "Set operations and Venn Diagrams.md",
+    "Mid_term exam.md",
+    "logical connection.md",
+    "pdf/Quiz.pdf",
+    "relation.md",
+    "checking the validity of the argument.md",
+    "lab2/inference test (part 1 ).md",
+    "picture/sym.PNG",
     "pdf/review.pdf",
     "discrete math symbols.md",
-    "joblib.md",
-    "logical connection.md",
-    "Logical Equivalences.md",
-    "pdf/Quiz.pdf",
     "picture/the resond why.PNG",
-    "Mid_term exam.md",
-    "relation.md",
     "type of relation slove problem.md",
     "recurrent relation.md",
     "README.md",
     "picture/universe.PNG",
     "symmetric different.md",
-    "Set operations and Venn Diagrams.md",
     "Pasted image 20230402085839.png",
     "picture/sym dif.PNG",
     "picture/relation.PNG",
@@ -248,7 +251,6 @@
     "Untitled.md",
     "lab2/inference exam test.md",
     "lab2/logic laws examples test.md",
-    "lab2/tarski world test.md",
-    "lab2/inference test(part 2).md"
+    "lab2/tarski world test.md"
   ]
 }
