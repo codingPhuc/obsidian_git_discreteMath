@@ -21,11 +21,9 @@
             "id": "e6c0595b27112ae3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "relation.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/Quiz.pdf"
               }
             }
           },
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "relation.md",
+                "file": "pdf/Quiz.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "relation.md",
+                "file": "pdf/Quiz.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "relation.md"
+                "file": "pdf/Quiz.pdf"
               }
             }
           },
@@ -207,15 +205,19 @@
   },
   "active": "e6c0595b27112ae3",
   "lastOpenFiles": [
+    "picture/root same.PNG",
+    "quiz1.md",
+    "Pasted image 20230402085839.png",
+    "picture/ref.PNG",
+    "pdf/Quiz.pdf",
+    "picture/universe.PNG",
+    "relation.md",
     "EXAM final test.md",
     "joblib.md",
     "Logical Equivalences.md",
-    "quiz1.md",
     "Set operations and Venn Diagrams.md",
     "Mid_term exam.md",
     "logical connection.md",
-    "pdf/Quiz.pdf",
-    "relation.md",
     "checking the validity of the argument.md",
     "lab2/inference test (part 1 ).md",
     "picture/sym.PNG",
@@ -225,9 +227,7 @@
     "type of relation slove problem.md",
     "recurrent relation.md",
     "README.md",
-    "picture/universe.PNG",
     "symmetric different.md",
-    "Pasted image 20230402085839.png",
     "picture/sym dif.PNG",
     "picture/relation.PNG",
     "picture/a.PNG",
@@ -235,8 +235,6 @@
     "The logic of compound statemetns.md",
     "essay/essay.md",
     "picture/d.PNG",
-    "picture/ref.PNG",
-    "picture/root same.PNG",
     "pdf/501044-DiscreteStructures-6_7_Sequences_and_Recursion.pdf",
     "pdf/501044-DiscreteStructures-3_Proof_Techniques.pdf",
     "pdf/501044-DiscreteStructures-2-FirstOrderLogic.pdf",
