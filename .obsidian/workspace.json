@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "79de2f4c17e7803d",
@@ -212,9 +211,10 @@
   },
   "active": "6128900e6d8c8427",
   "lastOpenFiles": [
+    "pdf/Quiz.pdf",
+    "lab4/theorem 4.7.4 infinitude of primes.md",
     "lab3/variants of universal conditional statments.md",
     "quiz1.md",
-    "pdf/Quiz.pdf",
     "README.md",
     "pdf/review.pdf",
     "recurrent relation.md",
@@ -255,8 +255,6 @@
     "Untitled 7.md",
     "Untitled 2.md",
     "Untitled.md",
-    "lab2/inference exam test.md",
-    "lab2/logic laws examples test.md",
-    "lab2/tarski world test.md"
+    "lab2/inference exam test.md"
   ]
 }
