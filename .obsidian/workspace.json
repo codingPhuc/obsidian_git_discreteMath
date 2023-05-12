@@ -174,41 +174,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "71286dd989939f31",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1fcb9902ecd6b076",
-        "type": "window",
-        "children": [
-          {
-            "id": "70ba6795d3623d24",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e6c0595b27112ae3",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "pdf/Quiz.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 824,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "6128900e6d8c8427",
   "lastOpenFiles": [
     "pdf/Quiz.pdf",
