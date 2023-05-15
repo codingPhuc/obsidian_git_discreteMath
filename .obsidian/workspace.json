@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab2/tarski world test.md",
+                "file": "essay/essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab2/tarski world test.md",
+                "file": "essay/essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab2/tarski world test.md",
+                "file": "essay/essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab2/tarski world test.md"
+                "file": "essay/essay.md"
               }
             }
           },
@@ -176,12 +176,12 @@
   },
   "active": "6128900e6d8c8427",
   "lastOpenFiles": [
-    "pdf/Quiz.pdf",
+    "lab2/inference test (part 1 ).md",
     "lab2/tarski world test.md",
+    "pdf/Quiz.pdf",
     "lab2/Rule of inference for propositional Logic.md",
     "lab2/logic laws examples test.md",
     "lab2/inference test(part 2).md",
-    "lab2/inference test (part 1 ).md",
     "lab4/theorem 4.7.4 infinitude of primes.md",
     "lab3/variants of universal conditional statments.md",
     "quiz1.md",
