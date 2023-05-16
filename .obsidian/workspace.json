@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recurrent relation.md",
+                "file": "relation.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recurrent relation.md",
+                "file": "relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recurrent relation.md",
+                "file": "relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recurrent relation.md"
+                "file": "relation.md"
               }
             }
           },
@@ -176,6 +176,8 @@
   },
   "active": "6128900e6d8c8427",
   "lastOpenFiles": [
+    "EXAM final test.md",
+    "recurrent relation.md",
     "quiz1.md",
     "Set operations and Venn Diagrams.md",
     "set.PNG",
@@ -187,7 +189,6 @@
     "Logical Equivalences.md",
     "checking the validity of the argument.md",
     "discrete math symbols.md",
-    "EXAM final test.md",
     "logical connection.md",
     "Mid_term exam.md",
     "lab2/tarski world test.md",
@@ -203,7 +204,6 @@
     "lab3/variants of universal conditional statments.md",
     "README.md",
     "pdf/review.pdf",
-    "recurrent relation.md",
     "picture/root same.PNG",
     "Pasted image 20230402085839.png",
     "picture/ref.PNG",
