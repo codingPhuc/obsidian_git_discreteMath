@@ -1,5 +1,5 @@
  - an eulerian circuit visits every edge in the graph exactly on , and starts and end on the same vertex . Graph with Eulerian circuits are known as Eulerian graphs 
- - an Eulerian trail visit every edge in the graph exactly ine, and starts and ends on the different vertices . Graph with Eulerian trails are known as semi-Eulerian graphs 
+ - an Eulerian trail visit every edge in the graph exactly one, and starts and ends on the different vertices . Graph with Eulerian trails are known as semi-Eulerian graphs 
  - A connected undirected graph has an Eulerian circuit if and only if all of its vertices have even degree 
  - a connected undirected graph has an eulerian trail if and only if exacly 2 of its verticse have odd degree 
  - if a graph has 1 or more than 2 odd-degree vertices , it is neither Semi- Eulerian nor Eulerian 
