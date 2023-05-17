@@ -1,1 +1,3 @@
- 
+ - an eulerian circuit visits evry edge in the graph exactly on , and starts and end on the same vertex . Graph with Eulerian circuits are known as Eulerian graphs 
+ - an Eulerian trail visit every edge in the graph exactly ine, and starts and ends on the different vertices . Graph with Eulerian trails are known as semi-Eulerian graphs 
+ - A connected undirected grap
