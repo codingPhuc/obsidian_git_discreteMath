@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "euler s circuit trail.md",
+                "file": "Set operations and Venn Diagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "euler s circuit trail.md",
+                "file": "Set operations and Venn Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "euler s circuit trail.md",
+                "file": "Set operations and Venn Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "euler s circuit trail.md"
+                "file": "Set operations and Venn Diagrams.md"
               }
             }
           },
@@ -176,25 +176,25 @@
   },
   "active": "6128900e6d8c8427",
   "lastOpenFiles": [
+    "set theory.md",
+    "Set operations and Venn Diagrams.md",
     "EXAM final test.md",
+    "relation.md",
     "euler s circuit trail.md",
+    "logical connection.md",
+    "recurrent relation.md",
     "essay/essay.md",
     "lab2/book inference test.md",
     "lab2/inference exam test.md",
     "pdf/review.pdf",
-    "recurrent relation.md",
     "quiz1.md",
-    "Set operations and Venn Diagrams.md",
     "set.PNG",
     "symmetric different.md",
     "type of relation slove problem.md",
     "The logic of compound statemetns.md",
-    "set theory.md",
-    "relation.md",
     "Logical Equivalences.md",
     "checking the validity of the argument.md",
     "discrete math symbols.md",
-    "logical connection.md",
     "Mid_term exam.md",
     "lab2/tarski world test.md",
     "lab2/Rule of inference for propositional Logic.md",
