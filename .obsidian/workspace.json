@@ -11,9 +11,11 @@
             "id": "6128900e6d8c8427",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdf/review.pdf"
+                "file": "lab2/inference test (part 1 ).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "79de2f4c17e7803d",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/review.pdf",
+                "file": "lab2/inference test (part 1 ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/review.pdf",
+                "file": "lab2/inference test (part 1 ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/review.pdf"
+                "file": "lab2/inference test (part 1 ).md"
               }
             }
           },
@@ -174,6 +175,12 @@
   },
   "active": "6128900e6d8c8427",
   "lastOpenFiles": [
+    "lab2/book inference test.md",
+    "lab2/inference test(part 2).md",
+    "lab2/logic laws examples test.md",
+    "lab2/tarski world test.md",
+    "lab2/inference exam test.md",
+    "lab3/Interpreting Multiply-Quantified Statements.md",
     "pdf/review.pdf",
     "Untitled.md",
     "README.md",
@@ -190,19 +197,14 @@
     "euler s circuit trail.md",
     "logical connection.md",
     "essay/essay.md",
-    "lab2/book inference test.md",
-    "lab2/inference exam test.md",
     "type of relation slove problem.md",
     "Logical Equivalences.md",
     "checking the validity of the argument.md",
     "discrete math symbols.md",
     "Mid_term exam.md",
-    "lab2/tarski world test.md",
     "lab2/Rule of inference for propositional Logic.md",
-    "lab2/inference test(part 2).md",
     "lab2/inference test (part 1 ).md",
     "pdf/Quiz.pdf",
-    "lab2/logic laws examples test.md",
     "picture/root same.PNG",
     "picture/ref.PNG",
     "picture/universe.PNG",
