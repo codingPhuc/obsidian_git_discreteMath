@@ -11,9 +11,11 @@
             "id": "6128900e6d8c8427",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdf/review.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/review.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/review.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/review.pdf"
+                "file": "README.md"
               }
             }
           },
@@ -173,35 +175,34 @@
   },
   "active": "6128900e6d8c8427",
   "lastOpenFiles": [
+    "set.PNG",
+    "README.md",
+    "Pasted image 20230402085839.png",
+    "Logical Equivalences.md",
+    "logical connection.md",
+    "Mid_term exam.md",
+    "EXAM final test.md",
+    "checking the validity of the argument.md",
+    "discrete math symbols.md",
+    "euler s circuit trail.md",
+    "pdf/review.pdf",
     "lab2/book inference test.md",
     "lab2/inference test(part 2).md",
     "lab2/logic laws examples test.md",
     "lab2/tarski world test.md",
     "lab2/inference exam test.md",
     "lab3/Interpreting Multiply-Quantified Statements.md",
-    "pdf/review.pdf",
     "Untitled.md",
-    "README.md",
     "quiz1.md",
-    "Pasted image 20230402085839.png",
     "recurrent relation.md",
     "set theory.md",
     "The logic of compound statemetns.md",
     "Set operations and Venn Diagrams.md",
     "symmetric different.md",
-    "set.PNG",
     "relation.md",
-    "EXAM final test.md",
-    "euler s circuit trail.md",
-    "logical connection.md",
     "essay/essay.md",
     "type of relation slove problem.md",
-    "Logical Equivalences.md",
-    "checking the validity of the argument.md",
-    "discrete math symbols.md",
-    "Mid_term exam.md",
     "lab2/Rule of inference for propositional Logic.md",
-    "lab2/inference test (part 1 ).md",
     "pdf/Quiz.pdf",
     "picture/root same.PNG",
     "picture/ref.PNG",
