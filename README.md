@@ -11,3 +11,5 @@ uml :
 - used case 
 - erl 
 - dfp 
+viết báo cáo : 
+- 
