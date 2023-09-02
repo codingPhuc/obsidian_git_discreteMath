@@ -28,9 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e81ce7689f54b431",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +194,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "688df24c79f121b3",
+  "active": "e81ce7689f54b431",
   "lastOpenFiles": [
     "pdf/review.pdf",
     "Untitled 1.md",
