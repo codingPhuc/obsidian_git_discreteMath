@@ -21,11 +21,9 @@
             "id": "51f186da3dd50753",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "lab2/inference exam test.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/review.pdf"
               }
             }
           }
@@ -114,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab2/inference exam test.md",
+                "file": "pdf/review.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab2/inference exam test.md",
+                "file": "pdf/review.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab2/inference exam test.md"
+                "file": "pdf/review.pdf"
               }
             }
           },
